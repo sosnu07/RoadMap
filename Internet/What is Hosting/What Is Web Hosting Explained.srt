@@ -1,0 +1,584 @@
+﻿1
+00:00:00,160 --> 00:00:02,639
+hi i'm tony messer from picaweb and in
+
+2
+00:00:02,639 --> 00:00:03,439
+this video
+
+3
+00:00:03,439 --> 00:00:05,279
+i'm going to explain everything you need
+
+4
+00:00:05,279 --> 00:00:07,120
+to know about web hosting
+
+5
+00:00:07,120 --> 00:00:08,880
+at the end of this video you'll have all
+
+6
+00:00:08,880 --> 00:00:10,559
+the information you need to make an
+
+7
+00:00:10,559 --> 00:00:11,599
+informed decision
+
+8
+00:00:11,599 --> 00:00:13,679
+when you buy a hosting service sound
+
+9
+00:00:13,679 --> 00:00:14,639
+like a plan
+
+10
+00:00:14,639 --> 00:00:16,210
+great let's get started
+
+11
+00:00:16,210 --> 00:00:22,230
+[Music]
+
+12
+00:00:22,400 --> 00:00:25,519
+okay so the basics hosting is the home
+
+13
+00:00:25,519 --> 00:00:26,480
+of your website
+
+14
+00:00:26,480 --> 00:00:28,000
+if you're on a website you'll need
+
+15
+00:00:28,000 --> 00:00:30,160
+somewhere to host it that's exactly
+
+16
+00:00:30,160 --> 00:00:32,000
+what web hosting is now there are
+
+17
+00:00:32,000 --> 00:00:33,520
+different types of
+
+18
+00:00:33,520 --> 00:00:35,040
+hosting service you've got shared
+
+19
+00:00:35,040 --> 00:00:37,440
+hosting reseller hosting
+
+20
+00:00:37,440 --> 00:00:39,680
+virtual private servers or vps and
+
+21
+00:00:39,680 --> 00:00:41,280
+dedicated servers
+
+22
+00:00:41,280 --> 00:00:42,879
+but we're going to be looking at shared
+
+23
+00:00:42,879 --> 00:00:44,640
+hosting in this video because that's the
+
+24
+00:00:44,640 --> 00:00:45,520
+most popular
+
+25
+00:00:45,520 --> 00:00:47,760
+and affordable type of hosting so
+
+26
+00:00:47,760 --> 00:00:49,280
+hosting is basically
+
+27
+00:00:49,280 --> 00:00:51,760
+the computer and network infrastructure
+
+28
+00:00:51,760 --> 00:00:53,760
+that keeps your website available
+
+29
+00:00:53,760 --> 00:00:56,000
+across the internet it also provides
+
+30
+00:00:56,000 --> 00:00:58,640
+other key services like email for you
+
+31
+00:00:58,640 --> 00:01:00,879
+so how does it all work well it all
+
+32
+00:01:00,879 --> 00:01:03,039
+starts with a server which is basically
+
+33
+00:01:03,039 --> 00:01:04,000
+a powerful
+
+34
+00:01:04,000 --> 00:01:06,400
+computer which is stored in a highly
+
+35
+00:01:06,400 --> 00:01:07,360
+secure
+
+36
+00:01:07,360 --> 00:01:09,360
+purpose-built multi-million pound
+
+37
+00:01:09,360 --> 00:01:11,760
+facility called a data center
+
+38
+00:01:11,760 --> 00:01:14,560
+the data center provides the network and
+
+39
+00:01:14,560 --> 00:01:16,080
+power connectivity
+
+40
+00:01:16,080 --> 00:01:19,360
+with temperature control backup systems
+
+41
+00:01:19,360 --> 00:01:21,520
+fire suppression and high levels of
+
+42
+00:01:21,520 --> 00:01:22,960
+physical security
+
+43
+00:01:22,960 --> 00:01:25,360
+security is also important at the server
+
+44
+00:01:25,360 --> 00:01:27,680
+level so the servers are actually built
+
+45
+00:01:27,680 --> 00:01:30,240
+with dual components for critical
+
+46
+00:01:30,240 --> 00:01:30,960
+components
+
+47
+00:01:30,960 --> 00:01:33,360
+things like hard drives and power supply
+
+48
+00:01:33,360 --> 00:01:34,320
+units
+
+49
+00:01:34,320 --> 00:01:36,560
+and the reason for this is to make sure
+
+50
+00:01:36,560 --> 00:01:38,400
+that your website is available
+
+51
+00:01:38,400 --> 00:01:41,280
+at all times so when you order a hosting
+
+52
+00:01:41,280 --> 00:01:42,000
+service
+
+53
+00:01:42,000 --> 00:01:44,320
+what you're actually purchasing is the
+
+54
+00:01:44,320 --> 00:01:46,399
+physical disk space on the server
+
+55
+00:01:46,399 --> 00:01:47,920
+as well as the bandwidth which is the
+
+56
+00:01:47,920 --> 00:01:49,439
+network connection
+
+57
+00:01:49,439 --> 00:01:53,040
+for the server and you'll often see
+
+58
+00:01:53,040 --> 00:01:55,280
+hosting advertised in terms of disk
+
+59
+00:01:55,280 --> 00:01:56,960
+space and bandwidth so you might see for
+
+60
+00:01:56,960 --> 00:01:57,439
+example
+
+61
+00:01:57,439 --> 00:02:00,240
+five gig five gigabytes of disk space
+
+62
+00:02:00,240 --> 00:02:01,360
+and 100 gigabytes
+
+63
+00:02:01,360 --> 00:02:04,799
+of bandwidth per month so the disk space
+
+64
+00:02:04,799 --> 00:02:05,680
+that covers
+
+65
+00:02:05,680 --> 00:02:07,520
+your website and all of your files
+
+66
+00:02:07,520 --> 00:02:09,598
+including key files things like your
+
+67
+00:02:09,598 --> 00:02:10,560
+emails
+
+68
+00:02:10,560 --> 00:02:12,480
+and the monthly bandwidth allowance this
+
+69
+00:02:12,480 --> 00:02:14,400
+is the amount of traffic that comes in
+
+70
+00:02:14,400 --> 00:02:17,760
+and out of your website and your hosting
+
+71
+00:02:17,760 --> 00:02:19,840
+space so that will usually most of it
+
+72
+00:02:19,840 --> 00:02:21,360
+will be made up by email
+
+73
+00:02:21,360 --> 00:02:24,160
+traffic in and out but also things like
+
+74
+00:02:24,160 --> 00:02:25,680
+people visiting your website and when
+
+75
+00:02:25,680 --> 00:02:26,640
+you actually publish
+
+76
+00:02:26,640 --> 00:02:29,200
+your website files in order to manage
+
+77
+00:02:29,200 --> 00:02:30,160
+your web hosting
+
+78
+00:02:30,160 --> 00:02:32,879
+you'll need access to a user-friendly
+
+79
+00:02:32,879 --> 00:02:34,800
+interface called a control panel
+
+80
+00:02:34,800 --> 00:02:36,239
+the one of the most popular control
+
+81
+00:02:36,239 --> 00:02:38,239
+panels is called cpanel
+
+82
+00:02:38,239 --> 00:02:41,120
+and this allows you to manage key areas
+
+83
+00:02:41,120 --> 00:02:42,640
+of your hosting things like setting up
+
+84
+00:02:42,640 --> 00:02:43,840
+email addresses
+
+85
+00:02:43,840 --> 00:02:46,480
+managing domains and forwarding managing
+
+86
+00:02:46,480 --> 00:02:47,440
+databases
+
+87
+00:02:47,440 --> 00:02:49,680
+that kind of thing and this shields you
+
+88
+00:02:49,680 --> 00:02:51,120
+basically from any of the sort of
+
+89
+00:02:51,120 --> 00:02:51,840
+technical
+
+90
+00:02:51,840 --> 00:02:53,760
+aspects of the hosting if you want to
+
+91
+00:02:53,760 --> 00:02:54,959
+build your own website
+
+92
+00:02:54,959 --> 00:02:57,040
+you can use a tool like website builder
+
+93
+00:02:57,040 --> 00:02:58,080
+which is included
+
+94
+00:02:58,080 --> 00:03:00,640
+and this basically allows non-technical
+
+95
+00:03:00,640 --> 00:03:01,360
+users
+
+96
+00:03:01,360 --> 00:03:04,080
+to build and maintain a website and it
+
+97
+00:03:04,080 --> 00:03:06,080
+uses templates pre-made templates so you
+
+98
+00:03:06,080 --> 00:03:07,120
+just add your own
+
+99
+00:03:07,120 --> 00:03:09,599
+text and images and then can publish it
+
+100
+00:03:09,599 --> 00:03:11,120
+for more advanced users or maybe you've
+
+101
+00:03:11,120 --> 00:03:12,319
+got a web designer
+
+102
+00:03:12,319 --> 00:03:15,200
+then there are more advanced tools and
+
+103
+00:03:15,200 --> 00:03:17,040
+applications which are included
+
+104
+00:03:17,040 --> 00:03:20,000
+for free so so you can sort of manage
+
+105
+00:03:20,000 --> 00:03:21,680
+databases and also use
+
+106
+00:03:21,680 --> 00:03:23,360
+other tools to build your website and
+
+107
+00:03:23,360 --> 00:03:25,120
+these kind of tools these applications
+
+108
+00:03:25,120 --> 00:03:27,599
+these include popular content management
+
+109
+00:03:27,599 --> 00:03:29,120
+systems like wordpress
+
+110
+00:03:29,120 --> 00:03:31,280
+as well as more advanced e-commerce
+
+111
+00:03:31,280 --> 00:03:32,319
+tools like
+
+112
+00:03:32,319 --> 00:03:34,480
+prestashop and magento so you can start
+
+113
+00:03:34,480 --> 00:03:35,599
+selling online
+
+114
+00:03:35,599 --> 00:03:37,519
+other security features are things like
+
+115
+00:03:37,519 --> 00:03:38,879
+anti-spam software
+
+116
+00:03:38,879 --> 00:03:41,040
+and data backup and these ensure the
+
+117
+00:03:41,040 --> 00:03:43,120
+integrity of your email
+
+118
+00:03:43,120 --> 00:03:45,920
+and your data if if you're with one
+
+119
+00:03:45,920 --> 00:03:47,680
+hosting company and you want to transfer
+
+120
+00:03:47,680 --> 00:03:49,120
+to another hosting company that's very
+
+121
+00:03:49,120 --> 00:03:50,879
+straightforward this is a process
+
+122
+00:03:50,879 --> 00:03:53,200
+called migration and basically your
+
+123
+00:03:53,200 --> 00:03:54,720
+files are copied from your current
+
+124
+00:03:54,720 --> 00:03:57,680
+hosting to your new hosting service
+
+125
+00:03:57,680 --> 00:03:58,879
+there are just a couple of
+
+126
+00:03:58,879 --> 00:04:00,560
+small changes that need to be made to
+
+127
+00:04:00,560 --> 00:04:02,560
+your domains and name server settings
+
+128
+00:04:02,560 --> 00:04:04,799
+for that process to be fully completed
+
+129
+00:04:04,799 --> 00:04:06,640
+okay so there you have it that's your
+
+130
+00:04:06,640 --> 00:04:07,439
+quick guide
+
+131
+00:04:07,439 --> 00:04:09,280
+to web hosting i hope you found that
+
+132
+00:04:09,280 --> 00:04:11,360
+useful if you like this video
+
+133
+00:04:11,360 --> 00:04:12,799
+don't forget to give it the big thumbs
+
+134
+00:04:12,799 --> 00:04:15,280
+up and subscribe to our channel
+
+135
+00:04:15,280 --> 00:04:17,358
+so you can get updated whenever we have
+
+136
+00:04:17,358 --> 00:04:19,040
+any new content for you
+
+137
+00:04:19,040 --> 00:04:20,880
+also please feel free to share it with
+
+138
+00:04:20,880 --> 00:04:22,560
+your friends and also
+
+139
+00:04:22,560 --> 00:04:24,720
+anyone who you know who's got who's
+
+140
+00:04:24,720 --> 00:04:26,400
+looking for a hosting service
+
+141
+00:04:26,400 --> 00:04:28,320
+if you've got any comments just put them
+
+142
+00:04:28,320 --> 00:04:30,240
+below i would really appreciate it
+
+143
+00:04:30,240 --> 00:04:32,240
+i do read them and i will get back to
+
+144
+00:04:32,240 --> 00:04:33,919
+you okay thanks very much for your time
+
+145
+00:04:33,919 --> 00:04:34,400
+then
+
+146
+00:04:34,400 --> 00:04:37,120
+bye-bye
+

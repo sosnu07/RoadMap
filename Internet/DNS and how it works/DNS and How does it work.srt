@@ -1,0 +1,612 @@
+﻿1
+00:00:00,080 --> 00:00:01,599
+hey everyone this is kamran and today
+
+2
+00:00:01,599 --> 00:00:03,679
+we're going to talk about the dns
+
+3
+00:00:03,679 --> 00:00:06,799
+or the domain name system dns is one of
+
+4
+00:00:06,799 --> 00:00:08,559
+those topics that anyone who develops
+
+5
+00:00:08,559 --> 00:00:09,360
+for the web
+
+6
+00:00:09,360 --> 00:00:11,360
+should know about it is a broad topic so
+
+7
+00:00:11,360 --> 00:00:13,040
+i'm going to divide this lesson into two
+
+8
+00:00:13,040 --> 00:00:13,759
+videos
+
+9
+00:00:13,759 --> 00:00:15,360
+in this lesson we're going to talk about
+
+10
+00:00:15,360 --> 00:00:17,359
+what is dns and how does it work
+
+11
+00:00:17,359 --> 00:00:18,880
+and the next one is going to be about
+
+12
+00:00:18,880 --> 00:00:21,119
+the dns records and how to debug the
+
+13
+00:00:21,119 --> 00:00:22,560
+issues with the help of dig
+
+14
+00:00:22,560 --> 00:00:26,160
+traced out and nslookup so what is dns
+
+15
+00:00:26,160 --> 00:00:28,080
+before we learn about the dns we need to
+
+16
+00:00:28,080 --> 00:00:29,359
+know what is internet
+
+17
+00:00:29,359 --> 00:00:31,119
+and before we learn about the internet
+
+18
+00:00:31,119 --> 00:00:33,120
+we need to know what is a network
+
+19
+00:00:33,120 --> 00:00:35,200
+network is just a group of computers and
+
+20
+00:00:35,200 --> 00:00:36,880
+other devices that are connected to each
+
+21
+00:00:36,880 --> 00:00:38,719
+other so for example if at your home you
+
+22
+00:00:38,719 --> 00:00:41,120
+have a printer you have a laptop and a
+
+23
+00:00:41,120 --> 00:00:41,760
+desktop
+
+24
+00:00:41,760 --> 00:00:43,280
+and all of these are connected to each
+
+25
+00:00:43,280 --> 00:00:45,360
+other these are all forming a network
+
+26
+00:00:45,360 --> 00:00:47,760
+moving on we have internet which is a
+
+27
+00:00:47,760 --> 00:00:49,760
+global network of networks
+
+28
+00:00:49,760 --> 00:00:51,680
+so for example if you at your home have
+
+29
+00:00:51,680 --> 00:00:53,680
+a home network and then your friend has
+
+30
+00:00:53,680 --> 00:00:55,199
+a home network of his own
+
+31
+00:00:55,199 --> 00:00:56,960
+and then he has another friend which has
+
+32
+00:00:56,960 --> 00:00:58,640
+a home network and all these networks
+
+33
+00:00:58,640 --> 00:01:00,559
+are grouped together to form a bigger
+
+34
+00:01:00,559 --> 00:01:01,199
+network
+
+35
+00:01:01,199 --> 00:01:03,359
+so internet is similar to that just a
+
+36
+00:01:03,359 --> 00:01:05,600
+global network of all the networks
+
+37
+00:01:05,600 --> 00:01:07,119
+now on the internet if you have to
+
+38
+00:01:07,119 --> 00:01:08,880
+communicate with some other device you
+
+39
+00:01:08,880 --> 00:01:10,240
+need to know how to find it
+
+40
+00:01:10,240 --> 00:01:12,000
+to find the device on the internet we
+
+41
+00:01:12,000 --> 00:01:14,240
+use something called the ip address
+
+42
+00:01:14,240 --> 00:01:16,240
+so each device on the internet has an ip
+
+43
+00:01:16,240 --> 00:01:17,759
+address which has a numeric
+
+44
+00:01:17,759 --> 00:01:20,400
+format and it looks like this and it is
+
+45
+00:01:20,400 --> 00:01:22,000
+used to locate that device on the
+
+46
+00:01:22,000 --> 00:01:22,880
+internet
+
+47
+00:01:22,880 --> 00:01:24,720
+and same goes for the websites that you
+
+48
+00:01:24,720 --> 00:01:26,000
+visit on the internet
+
+49
+00:01:26,000 --> 00:01:28,320
+the ip address of the server where that
+
+50
+00:01:28,320 --> 00:01:29,680
+website is hosted
+
+51
+00:01:29,680 --> 00:01:31,280
+is used to load the website in the
+
+52
+00:01:31,280 --> 00:01:33,439
+browser but how does it work because we
+
+53
+00:01:33,439 --> 00:01:35,200
+normally put the domain name in the
+
+54
+00:01:35,200 --> 00:01:35,840
+browser
+
+55
+00:01:35,840 --> 00:01:37,759
+how is the browser able to find the ip
+
+56
+00:01:37,759 --> 00:01:39,119
+address of the server
+
+57
+00:01:39,119 --> 00:01:41,200
+the answer to that is the browser uses
+
+58
+00:01:41,200 --> 00:01:42,880
+something called a dns
+
+59
+00:01:42,880 --> 00:01:44,640
+which helps us get the ip address from
+
+60
+00:01:44,640 --> 00:01:45,920
+the domain name so
+
+61
+00:01:45,920 --> 00:01:48,880
+the browser sends the dns the domain
+
+62
+00:01:48,880 --> 00:01:49,360
+name
+
+63
+00:01:49,360 --> 00:01:51,840
+and it gets back the ip address and once
+
+64
+00:01:51,840 --> 00:01:53,920
+it has the ip address it can go on the
+
+65
+00:01:53,920 --> 00:01:54,560
+network
+
+66
+00:01:54,560 --> 00:01:56,960
+and hop from different routers till it
+
+67
+00:01:56,960 --> 00:01:57,840
+reaches the
+
+68
+00:01:57,840 --> 00:01:59,840
+server and then it loads the website
+
+69
+00:01:59,840 --> 00:02:02,240
+from there
+
+70
+00:02:02,399 --> 00:02:04,159
+okay now that we've got the high level
+
+71
+00:02:04,159 --> 00:02:05,680
+understanding of the internet
+
+72
+00:02:05,680 --> 00:02:08,318
+and how it works let's look at the dns
+
+73
+00:02:08,318 --> 00:02:10,639
+and see how it works internally
+
+74
+00:02:10,639 --> 00:02:12,879
+so first of all we have the browser so
+
+75
+00:02:12,879 --> 00:02:14,480
+the user enters the website in the
+
+76
+00:02:14,480 --> 00:02:15,120
+browser
+
+77
+00:02:15,120 --> 00:02:16,959
+and tries to open it as we know that the
+
+78
+00:02:16,959 --> 00:02:19,440
+first step is dns resolution so the
+
+79
+00:02:19,440 --> 00:02:21,520
+browser needs to find the ip address
+
+80
+00:02:21,520 --> 00:02:23,520
+of the website first of all the browser
+
+81
+00:02:23,520 --> 00:02:24,879
+will look at the cache
+
+82
+00:02:24,879 --> 00:02:26,800
+and see if it has the ip address of the
+
+83
+00:02:26,800 --> 00:02:28,800
+website from any previous visits if it
+
+84
+00:02:28,800 --> 00:02:30,400
+doesn't find it there then it will look
+
+85
+00:02:30,400 --> 00:02:32,560
+at the dns cache and see if we have the
+
+86
+00:02:32,560 --> 00:02:34,720
+ip address there and if it is also not
+
+87
+00:02:34,720 --> 00:02:36,879
+there then it will look at the host file
+
+88
+00:02:36,879 --> 00:02:38,800
+to see if we have a mapping from the
+
+89
+00:02:38,800 --> 00:02:40,800
+domain name to the ip address
+
+90
+00:02:40,800 --> 00:02:42,879
+defined there if it is able to find the
+
+91
+00:02:42,879 --> 00:02:44,879
+ip address in any of these places
+
+92
+00:02:44,879 --> 00:02:46,959
+it will load the website from there and
+
+93
+00:02:46,959 --> 00:02:48,720
+it will not do any of the next steps
+
+94
+00:02:48,720 --> 00:02:50,480
+that we will mention now if it is not
+
+95
+00:02:50,480 --> 00:02:52,239
+able to find the ip address in any of
+
+96
+00:02:52,239 --> 00:02:53,280
+these caches
+
+97
+00:02:53,280 --> 00:02:55,200
+or the host file the next step is the
+
+98
+00:02:55,200 --> 00:02:57,519
+recursive dns servers this is normally
+
+99
+00:02:57,519 --> 00:02:58,560
+your isp
+
+100
+00:02:58,560 --> 00:03:00,640
+or internet services provider which
+
+101
+00:03:00,640 --> 00:03:02,319
+provides you the internet now it doesn't
+
+102
+00:03:02,319 --> 00:03:03,519
+know anything about the
+
+103
+00:03:03,519 --> 00:03:06,000
+domain name but it has the caches from
+
+104
+00:03:06,000 --> 00:03:07,200
+any previous visits
+
+105
+00:03:07,200 --> 00:03:09,040
+so it is possible that some other user
+
+106
+00:03:09,040 --> 00:03:11,120
+might have visited the same website
+
+107
+00:03:11,120 --> 00:03:13,360
+and might have the cached ip address if
+
+108
+00:03:13,360 --> 00:03:15,040
+it is able to find the cache type
+
+109
+00:03:15,040 --> 00:03:16,720
+address it will just return the ip
+
+110
+00:03:16,720 --> 00:03:18,560
+address from here and it does not have
+
+111
+00:03:18,560 --> 00:03:19,760
+to go to the next step
+
+112
+00:03:19,760 --> 00:03:21,760
+and if the ip address is not found here
+
+113
+00:03:21,760 --> 00:03:23,599
+then the next step is the root dns
+
+114
+00:03:23,599 --> 00:03:24,239
+servers
+
+115
+00:03:24,239 --> 00:03:26,319
+now root dns servers also do not have
+
+116
+00:03:26,319 --> 00:03:27,920
+the ip address information for the
+
+117
+00:03:27,920 --> 00:03:28,799
+domain name
+
+118
+00:03:28,799 --> 00:03:30,480
+but they have the information about the
+
+119
+00:03:30,480 --> 00:03:32,879
+tld or the top level domain
+
+120
+00:03:32,879 --> 00:03:34,560
+so for example if you're looking for
+
+121
+00:03:34,560 --> 00:03:37,040
+google.com so the tld
+
+122
+00:03:37,040 --> 00:03:39,920
+or the top level domain is dot com so it
+
+123
+00:03:39,920 --> 00:03:40,560
+knows
+
+124
+00:03:40,560 --> 00:03:42,400
+who might have the information about all
+
+125
+00:03:42,400 --> 00:03:44,239
+the dot com domains so it will just
+
+126
+00:03:44,239 --> 00:03:46,159
+return the information about the
+
+127
+00:03:46,159 --> 00:03:48,799
+tld server now the tld server also
+
+128
+00:03:48,799 --> 00:03:50,000
+doesn't know where the domain
+
+129
+00:03:50,000 --> 00:03:52,959
+is but it knows the final place where
+
+130
+00:03:52,959 --> 00:03:53,360
+might
+
+131
+00:03:53,360 --> 00:03:56,159
+the domain information be which is the
+
+132
+00:03:56,159 --> 00:03:57,840
+authoritative name server
+
+133
+00:03:57,840 --> 00:03:59,920
+so it will just return the information
+
+134
+00:03:59,920 --> 00:04:01,680
+about the authoritative name server and
+
+135
+00:04:01,680 --> 00:04:03,360
+the request will go to the authoritative
+
+136
+00:04:03,360 --> 00:04:04,080
+name server
+
+137
+00:04:04,080 --> 00:04:06,159
+get the ip address of the domain name
+
+138
+00:04:06,159 --> 00:04:07,120
+from there
+
+139
+00:04:07,120 --> 00:04:08,640
+the ip address will then come to the
+
+140
+00:04:08,640 --> 00:04:10,239
+recursive dns servers
+
+141
+00:04:10,239 --> 00:04:11,920
+where it might be cached and then it
+
+142
+00:04:11,920 --> 00:04:14,239
+will be sent to the user's computer
+
+143
+00:04:14,239 --> 00:04:15,840
+and then to the browser and then the
+
+144
+00:04:15,840 --> 00:04:17,600
+browser will request the website
+
+145
+00:04:17,600 --> 00:04:20,399
+servers and get the website from there
+
+146
+00:04:20,399 --> 00:04:21,519
+and this is how the
+
+147
+00:04:21,519 --> 00:04:23,280
+ip address of the website is found on
+
+148
+00:04:23,280 --> 00:04:25,919
+the internet with the help of dns
+
+149
+00:04:25,919 --> 00:04:27,919
+and that's it for our lesson i hope you
+
+150
+00:04:27,919 --> 00:04:29,759
+enjoyed it if you have any questions or
+
+151
+00:04:29,759 --> 00:04:30,479
+comments
+
+152
+00:04:30,479 --> 00:04:32,000
+leave them below and i will see you in
+
+153
+00:04:32,000 --> 00:04:40,880
+the next lesson
+

@@ -1,0 +1,2120 @@
+﻿1
+00:00:00,030 --> 00:00:01,860
+welcome back I hope you had a good
+
+2
+00:00:01,860 --> 00:00:04,710
+holiday if you celebrate Thanksgiving I
+
+3
+00:00:04,710 --> 00:00:07,529
+have a pretty decent one had a weird
+
+4
+00:00:07,529 --> 00:00:10,170
+sore throat problem but I'm starting to
+
+5
+00:00:10,170 --> 00:00:11,700
+recover from it and feel a lot better
+
+6
+00:00:11,700 --> 00:00:13,019
+now so that's good
+
+7
+00:00:13,019 --> 00:00:16,020
+and I actually didn't have a big turkey
+
+8
+00:00:16,020 --> 00:00:18,660
+I am half 11 knees so he actually had
+
+9
+00:00:18,660 --> 00:00:21,330
+some middle-eastern food we had Kibby
+
+10
+00:00:21,330 --> 00:00:25,289
+which is a minced meat dish mixed with
+
+11
+00:00:25,289 --> 00:00:27,000
+bulgur which is actually quite good I
+
+12
+00:00:27,000 --> 00:00:29,789
+enjoyed it a lot but today we're going
+
+13
+00:00:29,789 --> 00:00:32,189
+to be talking about hosting your
+
+14
+00:00:32,189 --> 00:00:34,649
+projects and where are some good options
+
+15
+00:00:34,649 --> 00:00:39,059
+if you want to save money and deploy on
+
+16
+00:00:39,059 --> 00:00:41,760
+a budget so the general way to save
+
+17
+00:00:41,760 --> 00:00:44,520
+money when deploying things is to spend
+
+18
+00:00:44,520 --> 00:00:46,219
+more time setting them up yourself
+
+19
+00:00:46,219 --> 00:00:49,440
+rather than paying a service to set up
+
+20
+00:00:49,440 --> 00:00:51,750
+stuff for you now the first thing that
+
+21
+00:00:51,750 --> 00:00:53,640
+we're going to look at is cloud
+
+22
+00:00:53,640 --> 00:00:55,860
+providers now they kind of break the
+
+23
+00:00:55,860 --> 00:00:58,020
+rule because they do this thing where
+
+24
+00:00:58,020 --> 00:01:01,920
+they have a juicy free tier so AWS has
+
+25
+00:01:01,920 --> 00:01:04,019
+it where they offer a bunch of free
+
+26
+00:01:04,019 --> 00:01:07,950
+stuff for their services for 12 months
+
+27
+00:01:07,950 --> 00:01:10,439
+Azure has a similar thing where for 12
+
+28
+00:01:10,439 --> 00:01:12,299
+months they offer you free services and
+
+29
+00:01:12,299 --> 00:01:14,460
+they also throw in a two hundred dollar
+
+30
+00:01:14,460 --> 00:01:18,150
+credit for 30 days now AWS I believe
+
+31
+00:01:18,150 --> 00:01:19,530
+also gives you like a hundred dollar
+
+32
+00:01:19,530 --> 00:01:22,229
+credit you can get somewhere and all of
+
+33
+00:01:22,229 --> 00:01:24,840
+these cloud providers have random
+
+34
+00:01:24,840 --> 00:01:26,430
+promotions where they're throwing money
+
+35
+00:01:26,430 --> 00:01:29,790
+at you also Google cloud has one where
+
+36
+00:01:29,790 --> 00:01:32,939
+you just get straight $300 for 12 months
+
+37
+00:01:32,939 --> 00:01:35,159
+and then they also have some always free
+
+38
+00:01:35,159 --> 00:01:37,590
+stuff so these guys are kind of cheating
+
+39
+00:01:37,590 --> 00:01:39,570
+because they don't actually charge you
+
+40
+00:01:39,570 --> 00:01:43,500
+anything usually until after a year of
+
+41
+00:01:43,500 --> 00:01:46,770
+using them or until you pass their free
+
+42
+00:01:46,770 --> 00:01:49,320
+usage which usually doesn't happen right
+
+43
+00:01:49,320 --> 00:01:53,159
+away so there's this illusion of value
+
+44
+00:01:53,159 --> 00:01:56,070
+that you're able to not spend anything
+
+45
+00:01:56,070 --> 00:01:59,790
+and get a ton of services and so this is
+
+46
+00:01:59,790 --> 00:02:02,640
+the exception to the rule where you're
+
+47
+00:02:02,640 --> 00:02:04,920
+able to leverage some of this stuff
+
+48
+00:02:04,920 --> 00:02:07,079
+short term and that's the key thing
+
+49
+00:02:07,079 --> 00:02:10,199
+these are great options if you want to
+
+50
+00:02:10,199 --> 00:02:13,080
+set up a project that you think maybe
+
+51
+00:02:13,080 --> 00:02:13,860
+take a year to
+
+52
+00:02:13,860 --> 00:02:15,420
+set up or something you're gonna have a
+
+53
+00:02:15,420 --> 00:02:18,330
+low traffic at first and then after that
+
+54
+00:02:18,330 --> 00:02:20,700
+you see yourself growing the project and
+
+55
+00:02:20,700 --> 00:02:23,610
+starting to get more users and hopefully
+
+56
+00:02:23,610 --> 00:02:25,950
+generating some revenue through your
+
+57
+00:02:25,950 --> 00:02:28,710
+service and then you can pay for some of
+
+58
+00:02:28,710 --> 00:02:31,380
+the higher prices that the cloud
+
+59
+00:02:31,380 --> 00:02:33,960
+services are going to charge because
+
+60
+00:02:33,960 --> 00:02:35,820
+that is the way they function they try
+
+61
+00:02:35,820 --> 00:02:37,980
+to hook you in with the free services
+
+62
+00:02:37,980 --> 00:02:40,709
+you get set up and using them you're
+
+63
+00:02:40,709 --> 00:02:42,780
+using their services so it's harder to
+
+64
+00:02:42,780 --> 00:02:45,209
+migrate away and use a different service
+
+65
+00:02:45,209 --> 00:02:46,890
+it's easier to just stay where you are
+
+66
+00:02:46,890 --> 00:02:50,070
+so when the free tier is up you continue
+
+67
+00:02:50,070 --> 00:02:52,770
+using them and you start using their
+
+68
+00:02:52,770 --> 00:02:54,900
+paid versions of whatever you're getting
+
+69
+00:02:54,900 --> 00:02:57,209
+from free before and this is where it
+
+70
+00:02:57,209 --> 00:02:59,100
+starts to get more expensive than some
+
+71
+00:02:59,100 --> 00:03:01,080
+of the other options but with that said
+
+72
+00:03:01,080 --> 00:03:03,660
+I still think this is a super legit way
+
+73
+00:03:03,660 --> 00:03:06,270
+to go especially if you see yourself in
+
+74
+00:03:06,270 --> 00:03:08,160
+the short term having a smaller budget
+
+75
+00:03:08,160 --> 00:03:10,500
+but in the long term having a more
+
+76
+00:03:10,500 --> 00:03:12,660
+flexible or larger budget to work with
+
+77
+00:03:12,660 --> 00:03:15,060
+especially because it's always gonna be
+
+78
+00:03:15,060 --> 00:03:18,810
+cheaper to hire Google cloud to manage
+
+79
+00:03:18,810 --> 00:03:21,180
+for example your database or your
+
+80
+00:03:21,180 --> 00:03:23,880
+servers than it is to hire a human to
+
+81
+00:03:23,880 --> 00:03:25,650
+monitor and make sure those things are
+
+82
+00:03:25,650 --> 00:03:27,959
+working and so if you want to start
+
+83
+00:03:27,959 --> 00:03:30,299
+cheap and then get some of the services
+
+84
+00:03:30,299 --> 00:03:31,739
+that are gonna be handled for you I
+
+85
+00:03:31,739 --> 00:03:34,530
+think a cloud free tier and then paying
+
+86
+00:03:34,530 --> 00:03:37,260
+later is a great option to go with now
+
+87
+00:03:37,260 --> 00:03:38,459
+there's some other things to consider
+
+88
+00:03:38,459 --> 00:03:41,010
+when choosing a cloud provider - there's
+
+89
+00:03:41,010 --> 00:03:43,380
+two things that I do not like about them
+
+90
+00:03:43,380 --> 00:03:46,709
+the first is their complexity just to
+
+91
+00:03:46,709 --> 00:03:49,950
+setup and use so they have gone to the
+
+92
+00:03:49,950 --> 00:03:51,900
+point now where they are just supporting
+
+93
+00:03:51,900 --> 00:03:54,750
+so many use cases and so many different
+
+94
+00:03:54,750 --> 00:03:57,000
+services that their dashboards are
+
+95
+00:03:57,000 --> 00:04:00,239
+getting very very complex and they are
+
+96
+00:04:00,239 --> 00:04:03,870
+offering certificates to learn AWS or
+
+97
+00:04:03,870 --> 00:04:06,360
+you get certified to show that you
+
+98
+00:04:06,360 --> 00:04:08,760
+actually know how to use AWS now because
+
+99
+00:04:08,760 --> 00:04:10,920
+it is that complex and you actually put
+
+100
+00:04:10,920 --> 00:04:13,049
+on your resume that you are capable of
+
+101
+00:04:13,049 --> 00:04:15,660
+using AWS because it is getting to that
+
+102
+00:04:15,660 --> 00:04:18,000
+point where you really need to study it
+
+103
+00:04:18,000 --> 00:04:20,190
+to fully understand how it works and
+
+104
+00:04:20,190 --> 00:04:21,959
+make sure you're using it correctly and
+
+105
+00:04:21,959 --> 00:04:23,940
+so that really ties in with the second
+
+106
+00:04:23,940 --> 00:04:25,919
+thing you can really easily mess up and
+
+107
+00:04:25,919 --> 00:04:27,389
+the price
+
+108
+00:04:27,389 --> 00:04:29,909
+is not always super transparent it's
+
+109
+00:04:29,909 --> 00:04:32,159
+very easy to spin up a lot of different
+
+110
+00:04:32,159 --> 00:04:34,770
+services underneath the hood and then
+
+111
+00:04:34,770 --> 00:04:36,870
+all of a sudden you have a larger bill
+
+112
+00:04:36,870 --> 00:04:39,150
+than you were expecting so it's not
+
+113
+00:04:39,150 --> 00:04:40,919
+always clear how much you're going to be
+
+114
+00:04:40,919 --> 00:04:43,199
+spending when you actually start using
+
+115
+00:04:43,199 --> 00:04:46,139
+these cloud providers so once you've
+
+116
+00:04:46,139 --> 00:04:48,389
+decided you actually want to use a cloud
+
+117
+00:04:48,389 --> 00:04:50,460
+provider the next question is which one
+
+118
+00:04:50,460 --> 00:04:52,229
+should you use should you go with Google
+
+119
+00:04:52,229 --> 00:04:56,999
+Microsoft desert or Amazon's AWS now
+
+120
+00:04:56,999 --> 00:04:59,610
+this is a video and it's owned which one
+
+121
+00:04:59,610 --> 00:05:01,680
+should you choose and this is also just
+
+122
+00:05:01,680 --> 00:05:04,199
+not the only options Oracle has a cloud
+
+123
+00:05:04,199 --> 00:05:06,659
+these just happen to be the biggest ones
+
+124
+00:05:06,659 --> 00:05:08,699
+and I would probably recommend just
+
+125
+00:05:08,699 --> 00:05:10,590
+starting with AWS because this happens
+
+126
+00:05:10,590 --> 00:05:13,080
+to be the one that is used the most so
+
+127
+00:05:13,080 --> 00:05:15,120
+it's gonna carry over this skill set to
+
+128
+00:05:15,120 --> 00:05:16,979
+know a BWS is actually getting pretty
+
+129
+00:05:16,979 --> 00:05:19,400
+important and a lot of different jobs
+
+130
+00:05:19,400 --> 00:05:21,659
+need it and you'll use it in a lot of
+
+131
+00:05:21,659 --> 00:05:24,330
+different places but I'm gonna leave an
+
+132
+00:05:24,330 --> 00:05:26,960
+in-depth comparison for a separate video
+
+133
+00:05:26,960 --> 00:05:29,849
+okay so that is option number one go
+
+134
+00:05:29,849 --> 00:05:32,520
+with a cloud and take advantage of their
+
+135
+00:05:32,520 --> 00:05:35,580
+generous free tears now option number
+
+136
+00:05:35,580 --> 00:05:38,159
+two is one that I personally use and
+
+137
+00:05:38,159 --> 00:05:40,379
+it's where we get more into setting
+
+138
+00:05:40,379 --> 00:05:43,139
+stuff up ourselves and I'm gonna split
+
+139
+00:05:43,139 --> 00:05:46,770
+this into four categories number one is
+
+140
+00:05:46,770 --> 00:05:49,949
+hosting our database number two is
+
+141
+00:05:49,949 --> 00:05:52,800
+hosting our server number three is
+
+142
+00:05:52,800 --> 00:05:54,360
+hosting our front-end
+
+143
+00:05:54,360 --> 00:05:57,389
+so server more are back inside and then
+
+144
+00:05:57,389 --> 00:06:00,029
+our front-end side our website and then
+
+145
+00:06:00,029 --> 00:06:03,629
+lastly what about user uploaded images
+
+146
+00:06:03,629 --> 00:06:05,759
+now I'm choosing that because that's a
+
+147
+00:06:05,759 --> 00:06:07,800
+very common thing that you usually have
+
+148
+00:06:07,800 --> 00:06:09,960
+in your application and something you
+
+149
+00:06:09,960 --> 00:06:11,610
+need to think about and affects how you
+
+150
+00:06:11,610 --> 00:06:15,029
+host so starting with the database this
+
+151
+00:06:15,029 --> 00:06:17,460
+is what I would not recommend using if
+
+152
+00:06:17,460 --> 00:06:19,289
+you're on a budget and the reason for
+
+153
+00:06:19,289 --> 00:06:21,689
+that is it gets very expensive very
+
+154
+00:06:21,689 --> 00:06:24,120
+quickly and that is these hosted
+
+155
+00:06:24,120 --> 00:06:26,069
+database options that are getting more
+
+156
+00:06:26,069 --> 00:06:29,009
+popular so one example this is M lap
+
+157
+00:06:29,009 --> 00:06:31,349
+where they will host a MongoDB database
+
+158
+00:06:31,349 --> 00:06:34,379
+for you and you can see here it costs
+
+159
+00:06:34,379 --> 00:06:37,289
+$15 per gigabyte and that is very
+
+160
+00:06:37,289 --> 00:06:39,209
+expensive a gigabyte is not a lot of
+
+161
+00:06:39,209 --> 00:06:41,760
+data but if you take it to the
+
+162
+00:06:41,760 --> 00:06:44,730
+why this is so much it makes sense and
+
+163
+00:06:44,730 --> 00:06:46,830
+that's because you're not just getting a
+
+164
+00:06:46,830 --> 00:06:48,810
+database you are getting backups
+
+165
+00:06:48,810 --> 00:06:50,700
+included for you you're getting support
+
+166
+00:06:50,700 --> 00:06:52,980
+free transfer analytics hardware costs
+
+167
+00:06:52,980 --> 00:06:54,930
+and maybe some other stuff thrown in
+
+168
+00:06:54,930 --> 00:06:57,300
+there but it's something where if your
+
+169
+00:06:57,300 --> 00:06:59,760
+database crashes you don't have to go in
+
+170
+00:06:59,760 --> 00:07:01,770
+there and handle that stuff they have a
+
+171
+00:07:01,770 --> 00:07:04,169
+team that is making sure your database
+
+172
+00:07:04,169 --> 00:07:05,820
+is up and running and functioning
+
+173
+00:07:05,820 --> 00:07:08,490
+correctly and so that can be really nice
+
+174
+00:07:08,490 --> 00:07:11,370
+but it can be really expensive so
+
+175
+00:07:11,370 --> 00:07:13,410
+another option and that's similar to
+
+176
+00:07:13,410 --> 00:07:16,230
+this is with Redis labs where they are
+
+177
+00:07:16,230 --> 00:07:19,620
+hosting a Redis instance for you and
+
+178
+00:07:19,620 --> 00:07:21,419
+here you can see it is twenty two
+
+179
+00:07:21,419 --> 00:07:24,510
+dollars a month for one gigabyte and for
+
+180
+00:07:24,510 --> 00:07:26,070
+five of your bytes is one hundred and
+
+181
+00:07:26,070 --> 00:07:27,600
+five dollars a month so very quickly
+
+182
+00:07:27,600 --> 00:07:30,540
+with not a lot of gigs it gets very
+
+183
+00:07:30,540 --> 00:07:33,600
+pricey but again they are doing extra
+
+184
+00:07:33,600 --> 00:07:35,729
+stuff for you and again depending on
+
+185
+00:07:35,729 --> 00:07:38,430
+your plan you get more stuff and so if
+
+186
+00:07:38,430 --> 00:07:40,830
+you need these extra services maybe you
+
+187
+00:07:40,830 --> 00:07:42,810
+want to consider these things but not
+
+188
+00:07:42,810 --> 00:07:45,240
+everybody needs all of these things and
+
+189
+00:07:45,240 --> 00:07:47,280
+it's one of those things where for a lot
+
+190
+00:07:47,280 --> 00:07:50,220
+of sites if your database crashes it's
+
+191
+00:07:50,220 --> 00:07:52,380
+okay to have an hour of downtime where
+
+192
+00:07:52,380 --> 00:07:53,940
+you go in there and you fix it yourself
+
+193
+00:07:53,940 --> 00:07:56,340
+that usually isn't too problematic for
+
+194
+00:07:56,340 --> 00:07:58,950
+most sites it's just the fact that you
+
+195
+00:07:58,950 --> 00:08:01,110
+don't really need 99 percent uptime all
+
+196
+00:08:01,110 --> 00:08:03,570
+the time it's a very rare case that your
+
+197
+00:08:03,570 --> 00:08:05,280
+database crashes at least it should be
+
+198
+00:08:05,280 --> 00:08:06,720
+if it isn't you may want to have to
+
+199
+00:08:06,720 --> 00:08:08,720
+consider switching your database or
+
+200
+00:08:08,720 --> 00:08:11,160
+changing something up so what I like to
+
+201
+00:08:11,160 --> 00:08:14,760
+do instead is host the database and a
+
+202
+00:08:14,760 --> 00:08:17,520
+virtual private server so for example
+
+203
+00:08:17,520 --> 00:08:19,979
+digitalocean is a company that sells
+
+204
+00:08:19,979 --> 00:08:22,530
+these so is a vulture and there is a ton
+
+205
+00:08:22,530 --> 00:08:24,419
+like this where basically you get a
+
+206
+00:08:24,419 --> 00:08:26,490
+little computer and you can install
+
+207
+00:08:26,490 --> 00:08:27,990
+whatever software you want in there and
+
+208
+00:08:27,990 --> 00:08:30,720
+host projects and so it's also very
+
+209
+00:08:30,720 --> 00:08:34,740
+flexible so not only can I stick MongoDB
+
+210
+00:08:34,740 --> 00:08:36,750
+but I can also stick Redis on there and
+
+211
+00:08:36,750 --> 00:08:38,820
+so I'm not limited to just hosting a
+
+212
+00:08:38,820 --> 00:08:41,370
+single database on there but I can host
+
+213
+00:08:41,370 --> 00:08:43,140
+multiple databases and I can also
+
+214
+00:08:43,140 --> 00:08:45,780
+include my back-end server so personally
+
+215
+00:08:45,780 --> 00:08:48,270
+what I will do for small projects is I
+
+216
+00:08:48,270 --> 00:08:51,150
+will setup a single virtual machine
+
+217
+00:08:51,150 --> 00:08:53,760
+which I will stick my database and I'll
+
+218
+00:08:53,760 --> 00:08:55,140
+also stick my server on
+
+219
+00:08:55,140 --> 00:08:57,540
+so they're close together now again this
+
+220
+00:08:57,540 --> 00:08:59,820
+may not be optimal in all cases because
+
+221
+00:08:59,820 --> 00:09:02,970
+if my database crashes so does my entire
+
+222
+00:09:02,970 --> 00:09:05,250
+application but a lot of cases this is
+
+223
+00:09:05,250 --> 00:09:07,800
+an acceptable amount of risk and I think
+
+224
+00:09:07,800 --> 00:09:09,779
+is a great option if you are doing a
+
+225
+00:09:09,779 --> 00:09:13,110
+small to medium-sized project and you
+
+226
+00:09:13,110 --> 00:09:15,390
+see using this or building this over a
+
+227
+00:09:15,390 --> 00:09:17,790
+long term because it is a cheaper price
+
+228
+00:09:17,790 --> 00:09:19,589
+and if you want some of these other
+
+229
+00:09:19,589 --> 00:09:22,290
+services along with just you know
+
+230
+00:09:22,290 --> 00:09:24,480
+hosting your database you will need to
+
+231
+00:09:24,480 --> 00:09:26,730
+set these up yourself which can be a pro
+
+232
+00:09:26,730 --> 00:09:29,250
+or a con the pro is you can set up
+
+233
+00:09:29,250 --> 00:09:30,750
+however you like and you get a ton of
+
+234
+00:09:30,750 --> 00:09:32,610
+flexibility with it you get to choose
+
+235
+00:09:32,610 --> 00:09:34,620
+the analytic tool that you use or you
+
+236
+00:09:34,620 --> 00:09:36,630
+get to pick the way that you're backing
+
+237
+00:09:36,630 --> 00:09:38,880
+up your database so for example backups
+
+238
+00:09:38,880 --> 00:09:40,920
+were something that I really want it so
+
+239
+00:09:40,920 --> 00:09:43,019
+what I do is I have a cron job which
+
+240
+00:09:43,019 --> 00:09:45,420
+runs every day and it backs up the
+
+241
+00:09:45,420 --> 00:09:49,529
+database and saves the database to s3 so
+
+242
+00:09:49,529 --> 00:09:53,250
+on AWS on Amazon and so I have backups
+
+243
+00:09:53,250 --> 00:09:55,560
+made every day and make sure I don't
+
+244
+00:09:55,560 --> 00:09:57,720
+lose any data still and to give you a
+
+245
+00:09:57,720 --> 00:09:59,190
+little insight into I actually like to
+
+246
+00:09:59,190 --> 00:10:01,019
+use to manage everything on the virtual
+
+247
+00:10:01,019 --> 00:10:02,880
+machine I like this open source software
+
+248
+00:10:02,880 --> 00:10:05,880
+called dokku which works very similar to
+
+249
+00:10:05,880 --> 00:10:08,010
+Heroku where you just push up your code
+
+250
+00:10:08,010 --> 00:10:11,670
+and add in some database add-ons and you
+
+251
+00:10:11,670 --> 00:10:13,890
+just let it handle the rest for you you
+
+252
+00:10:13,890 --> 00:10:15,720
+know if they touch nginx or mapping
+
+253
+00:10:15,720 --> 00:10:18,329
+subdomains and it's very easy to get
+
+254
+00:10:18,329 --> 00:10:20,519
+let's encrypt set up so you have htps
+
+255
+00:10:20,519 --> 00:10:23,579
+and so I actually have and you can run
+
+256
+00:10:23,579 --> 00:10:25,079
+several different servers from the
+
+257
+00:10:25,079 --> 00:10:27,750
+single virtual machine and so I have
+
+258
+00:10:27,750 --> 00:10:30,810
+Postgres running in there and Redis and
+
+259
+00:10:30,810 --> 00:10:33,510
+then also my back-end server and so
+
+260
+00:10:33,510 --> 00:10:35,550
+being able to handle all those things in
+
+261
+00:10:35,550 --> 00:10:38,370
+a single box or single server is pre
+
+262
+00:10:38,370 --> 00:10:40,769
+cost efficient so how much do these
+
+263
+00:10:40,769 --> 00:10:42,930
+virtual private readings actually cost
+
+264
+00:10:42,930 --> 00:10:45,630
+well here is the pricing table for
+
+265
+00:10:45,630 --> 00:10:48,690
+vulture so you can see it starts at 250
+
+266
+00:10:48,690 --> 00:10:51,690
+a month and it goes up from there and it
+
+267
+00:10:51,690 --> 00:10:53,640
+really just depends on how much memory
+
+268
+00:10:53,640 --> 00:10:57,149
+and how much CPU you need or you want
+
+269
+00:10:57,149 --> 00:11:00,329
+now it's not just about those two things
+
+270
+00:11:00,329 --> 00:11:02,160
+though and so that's one of the things
+
+271
+00:11:02,160 --> 00:11:04,949
+that I naively would compare before so
+
+272
+00:11:04,949 --> 00:11:06,930
+for example we can look at the price
+
+273
+00:11:06,930 --> 00:11:09,520
+table here and the price table
+
+274
+00:11:09,520 --> 00:11:11,740
+Oshin and we can see they're pretty
+
+275
+00:11:11,740 --> 00:11:13,330
+comparable at least with the amount of
+
+276
+00:11:13,330 --> 00:11:16,600
+memory and CPUs and transferred discs
+
+277
+00:11:16,600 --> 00:11:17,890
+and that sort of thing that you get
+
+278
+00:11:17,890 --> 00:11:20,380
+compared to each other but that doesn't
+
+279
+00:11:20,380 --> 00:11:21,310
+mean you're gonna get similar
+
+280
+00:11:21,310 --> 00:11:23,710
+performance and the underlying software
+
+281
+00:11:23,710 --> 00:11:26,290
+that vulture and digitalocean use could
+
+282
+00:11:26,290 --> 00:11:28,450
+be totally different and so to be honest
+
+283
+00:11:28,450 --> 00:11:31,630
+with you I have no idea which VPS
+
+284
+00:11:31,630 --> 00:11:33,490
+provider you should choose I'm
+
+285
+00:11:33,490 --> 00:11:35,920
+personally trying out a couple different
+
+286
+00:11:35,920 --> 00:11:37,270
+ones right now that try to figuring out
+
+287
+00:11:37,270 --> 00:11:39,520
+which one I like the best I'm playing
+
+288
+00:11:39,520 --> 00:11:41,590
+around with this one called SSD notes
+
+289
+00:11:41,590 --> 00:11:43,620
+but I have no idea if they're any good
+
+290
+00:11:43,620 --> 00:11:46,930
+but here is the thing that I think is
+
+291
+00:11:46,930 --> 00:11:50,410
+the true test is to just do benchmarks
+
+292
+00:11:50,410 --> 00:11:52,510
+and to see which one benchmarks the best
+
+293
+00:11:52,510 --> 00:11:54,940
+is probably the best way to choose
+
+294
+00:11:54,940 --> 00:11:57,430
+between these and so one place that does
+
+295
+00:11:57,430 --> 00:11:59,800
+this there's this Josh tronic blog that
+
+296
+00:11:59,800 --> 00:12:03,160
+compares them and so it gives you a nice
+
+297
+00:12:03,160 --> 00:12:06,780
+side-by-side of these five providers and
+
+298
+00:12:06,780 --> 00:12:10,360
+they'll actually go into CPU and some
+
+299
+00:12:10,360 --> 00:12:12,610
+other things memory and compare the
+
+300
+00:12:12,610 --> 00:12:14,710
+speeds of them and see which one you're
+
+301
+00:12:14,710 --> 00:12:16,690
+actually getting you know you may pay
+
+302
+00:12:16,690 --> 00:12:19,270
+$10 for each one of these which ones
+
+303
+00:12:19,270 --> 00:12:21,280
+actually give you the most performance
+
+304
+00:12:21,280 --> 00:12:25,600
+best memory or best CP or etc another
+
+305
+00:12:25,600 --> 00:12:26,890
+place that I found that was pretty
+
+306
+00:12:26,890 --> 00:12:28,870
+interesting was called VPS benchmarks
+
+307
+00:12:28,870 --> 00:12:31,480
+where you could actually compare two
+
+308
+00:12:31,480 --> 00:12:34,600
+different VPS and their speeds and
+
+309
+00:12:34,600 --> 00:12:39,520
+whatnot so if you go to compare maybe
+
+310
+00:12:39,520 --> 00:12:41,350
+providers where was I could actually
+
+311
+00:12:41,350 --> 00:12:44,200
+like show suit compare VPS providers and
+
+312
+00:12:44,200 --> 00:12:46,390
+so I could click vulture and I could
+
+313
+00:12:46,390 --> 00:12:50,260
+click Google cloud compute or compute
+
+314
+00:12:50,260 --> 00:12:52,540
+engine I mean we could actually compare
+
+315
+00:12:52,540 --> 00:12:55,480
+these and get a breakdown of their both
+
+316
+00:12:55,480 --> 00:12:57,660
+their pricing and also in each category
+
+317
+00:12:57,660 --> 00:13:00,310
+they kind of rate them on performance
+
+318
+00:13:00,310 --> 00:13:01,960
+and whatnot and you can even get into
+
+319
+00:13:01,960 --> 00:13:04,900
+more fine-grain things down here on the
+
+320
+00:13:04,900 --> 00:13:06,760
+performance at different levels so if
+
+321
+00:13:06,760 --> 00:13:07,990
+you're into this thing and you want to
+
+322
+00:13:07,990 --> 00:13:10,120
+dive into this you could send you could
+
+323
+00:13:10,120 --> 00:13:11,770
+consider looking at these different
+
+324
+00:13:11,770 --> 00:13:13,180
+benchmarks and maybe that'll help you
+
+325
+00:13:13,180 --> 00:13:15,610
+pick but in this particular category I
+
+326
+00:13:15,610 --> 00:13:17,410
+have no idea which one is the best
+
+327
+00:13:17,410 --> 00:13:19,690
+vulture seems to consistently be one
+
+328
+00:13:19,690 --> 00:13:22,090
+that across several different benchmarks
+
+329
+00:13:22,090 --> 00:13:22,880
+performs
+
+330
+00:13:22,880 --> 00:13:25,070
+pretty well and I've used it and it's
+
+331
+00:13:25,070 --> 00:13:27,080
+been a positive experience so it's one I
+
+332
+00:13:27,080 --> 00:13:30,590
+feel confident recommending starting
+
+333
+00:13:30,590 --> 00:13:32,780
+with at least but there may be some
+
+334
+00:13:32,780 --> 00:13:34,370
+better ones out there so let me know if
+
+335
+00:13:34,370 --> 00:13:35,990
+you have a favorite on what you actually
+
+336
+00:13:35,990 --> 00:13:37,930
+choose for this but in general
+
+337
+00:13:37,930 --> 00:13:40,130
+price-wise they're pretty comparative
+
+338
+00:13:40,130 --> 00:13:42,590
+and they offer about the same CPU about
+
+339
+00:13:42,590 --> 00:13:44,420
+the same memory so it really comes down
+
+340
+00:13:44,420 --> 00:13:46,640
+to the performance of each one of what
+
+341
+00:13:46,640 --> 00:13:48,620
+they're giving you okay so the VPS will
+
+342
+00:13:48,620 --> 00:13:51,010
+handle your back-end in your database
+
+343
+00:13:51,010 --> 00:13:54,620
+now for your front-end this only really
+
+344
+00:13:54,620 --> 00:13:56,690
+matters if you're not doing server-side
+
+345
+00:13:56,690 --> 00:13:58,850
+rendering so if you're doing jam stack
+
+346
+00:13:58,850 --> 00:14:02,630
+or you have a static website aka if
+
+347
+00:14:02,630 --> 00:14:04,520
+you're using create react app using
+
+348
+00:14:04,520 --> 00:14:06,500
+Gatsby something like that I actually
+
+349
+00:14:06,500 --> 00:14:08,810
+like to host it on net liffe I if you
+
+350
+00:14:08,810 --> 00:14:10,910
+are doing server-side rendering aka
+
+351
+00:14:10,910 --> 00:14:13,820
+you're using Django Ruby on Rails using
+
+352
+00:14:13,820 --> 00:14:16,940
+next yes something like that where you
+
+353
+00:14:16,940 --> 00:14:18,920
+are actually you know rendering the
+
+354
+00:14:18,920 --> 00:14:21,200
+pages from your server then you can
+
+355
+00:14:21,200 --> 00:14:23,390
+actually just stick it with your VPS and
+
+356
+00:14:23,390 --> 00:14:25,880
+you can do it there so this is for
+
+357
+00:14:25,880 --> 00:14:28,190
+static sites I like to split them off
+
+358
+00:14:28,190 --> 00:14:30,680
+and not render them in the VPS because
+
+359
+00:14:30,680 --> 00:14:33,320
+you can get a really nice free tier from
+
+360
+00:14:33,320 --> 00:14:35,030
+net liffe I and so it will take some
+
+361
+00:14:35,030 --> 00:14:37,190
+load off of your server if you can serve
+
+362
+00:14:37,190 --> 00:14:40,700
+stack files here so what I'll do is I
+
+363
+00:14:40,700 --> 00:14:42,620
+believe it's up to a hundred gigabytes
+
+364
+00:14:42,620 --> 00:14:46,520
+of bandwidth that you get for actually
+
+365
+00:14:46,520 --> 00:14:48,110
+being able to host here and so that will
+
+366
+00:14:48,110 --> 00:14:50,510
+last you a very long time and static
+
+367
+00:14:50,510 --> 00:14:53,750
+websites are so easy to like migrate who
+
+368
+00:14:53,750 --> 00:14:56,210
+you're hosting with it's very easy to if
+
+369
+00:14:56,210 --> 00:14:58,940
+you reach over the hundred gigs which
+
+370
+00:14:58,940 --> 00:15:00,620
+will give you give you for free it's
+
+371
+00:15:00,620 --> 00:15:01,850
+very easy to switch if you want to go
+
+372
+00:15:01,850 --> 00:15:04,250
+somewhere else but you may even want to
+
+373
+00:15:04,250 --> 00:15:05,750
+stick with metal if I I personally just
+
+374
+00:15:05,750 --> 00:15:07,190
+really like the experience with
+
+375
+00:15:07,190 --> 00:15:08,810
+deploying here it's very easy it's very
+
+376
+00:15:08,810 --> 00:15:11,240
+quick and I like it a lot so this is
+
+377
+00:15:11,240 --> 00:15:14,080
+where I would go just totally free for
+
+378
+00:15:14,080 --> 00:15:16,550
+front-end at your website if it's static
+
+379
+00:15:16,550 --> 00:15:20,270
+so lastly let's talk about handling user
+
+380
+00:15:20,270 --> 00:15:23,540
+uploaded images so I'm not talking about
+
+381
+00:15:23,540 --> 00:15:25,670
+you know you have some assets on your
+
+382
+00:15:25,670 --> 00:15:27,710
+landing page I'm talking about your
+
+383
+00:15:27,710 --> 00:15:30,080
+Twitter your Facebook your some place
+
+384
+00:15:30,080 --> 00:15:31,880
+where you want to handle the user
+
+385
+00:15:31,880 --> 00:15:33,800
+uploading stuff and displaying their
+
+386
+00:15:33,800 --> 00:15:36,600
+custom images and they could upload them
+
+387
+00:15:36,600 --> 00:15:38,160
+anytime and so you want to be able to
+
+388
+00:15:38,160 --> 00:15:40,800
+handle that so I want to first talk
+
+389
+00:15:40,800 --> 00:15:43,020
+about the approach that I like the best
+
+390
+00:15:43,020 --> 00:15:45,090
+and then we're talking about how you
+
+391
+00:15:45,090 --> 00:15:47,460
+can't accomplish that approach so this
+
+392
+00:15:47,460 --> 00:15:48,660
+is the one that I really like and that
+
+393
+00:15:48,660 --> 00:15:52,200
+is to store wherever they upload store
+
+394
+00:15:52,200 --> 00:15:54,060
+it at that size so if they upload an
+
+395
+00:15:54,060 --> 00:15:57,600
+image that happens to be 900 by 900 you
+
+396
+00:15:57,600 --> 00:16:00,420
+save it as 900 by 900 now the thing is
+
+397
+00:16:00,420 --> 00:16:02,580
+your website may need it a different
+
+398
+00:16:02,580 --> 00:16:04,620
+size or may need some different settings
+
+399
+00:16:04,620 --> 00:16:06,810
+on the image so what you'll do is when
+
+400
+00:16:06,810 --> 00:16:09,030
+you request the image you will give it
+
+401
+00:16:09,030 --> 00:16:10,920
+some parameters for example the width
+
+402
+00:16:10,920 --> 00:16:13,260
+and height that you need or maybe you
+
+403
+00:16:13,260 --> 00:16:15,150
+need this width right and so what we'll
+
+404
+00:16:15,150 --> 00:16:20,610
+do is the service will resize it get to
+
+405
+00:16:20,610 --> 00:16:22,410
+the width that you want it on the fly
+
+406
+00:16:22,410 --> 00:16:25,230
+then it will cache it and then it'll
+
+407
+00:16:25,230 --> 00:16:27,330
+give you the image so this is something
+
+408
+00:16:27,330 --> 00:16:28,980
+where the first time it may take
+
+409
+00:16:28,980 --> 00:16:30,600
+slightly longer because it needs to
+
+410
+00:16:30,600 --> 00:16:32,970
+dynamically create the image at the do
+
+411
+00:16:32,970 --> 00:16:34,770
+size on the server and it's going to
+
+412
+00:16:34,770 --> 00:16:37,890
+give you the image so the nice part of
+
+413
+00:16:37,890 --> 00:16:40,140
+this approach is you have the original
+
+414
+00:16:40,140 --> 00:16:43,500
+image at 900 by 900 and then you can
+
+415
+00:16:43,500 --> 00:16:46,280
+resize it to whatever you want right so
+
+416
+00:16:46,280 --> 00:16:48,720
+as your requirements for the website
+
+417
+00:16:48,720 --> 00:16:51,210
+change or maybe you need different sizes
+
+418
+00:16:51,210 --> 00:16:53,670
+in different places it's very easy to be
+
+419
+00:16:53,670 --> 00:16:56,040
+able to just change the URL parameter
+
+420
+00:16:56,040 --> 00:16:57,870
+you don't have to go generating a bunch
+
+421
+00:16:57,870 --> 00:17:00,240
+of files ahead of time the right size
+
+422
+00:17:00,240 --> 00:17:02,880
+that you want now I've tried doing this
+
+423
+00:17:02,880 --> 00:17:07,140
+approach myself in putting this logic on
+
+424
+00:17:07,140 --> 00:17:09,810
+digital ocean or vulture or one of those
+
+425
+00:17:09,810 --> 00:17:13,079
+places but to be honest it is just a
+
+426
+00:17:13,079 --> 00:17:14,819
+headache to try to do well it's not so
+
+427
+00:17:14,819 --> 00:17:16,619
+much it's a headache to actually set up
+
+428
+00:17:16,619 --> 00:17:18,680
+it's more of a headache to try to get
+
+429
+00:17:18,680 --> 00:17:21,569
+performant and I was never able to get
+
+430
+00:17:21,569 --> 00:17:23,790
+to a speed that was quite happy with
+
+431
+00:17:23,790 --> 00:17:26,369
+I even tried seeking cloud fair in front
+
+432
+00:17:26,369 --> 00:17:29,130
+but even then when image is loaded it
+
+433
+00:17:29,130 --> 00:17:31,080
+was just a lot slower than some of the
+
+434
+00:17:31,080 --> 00:17:33,570
+other options so I would actually
+
+435
+00:17:33,570 --> 00:17:35,850
+recommend in this case at least I
+
+436
+00:17:35,850 --> 00:17:37,590
+haven't had much success try and do it
+
+437
+00:17:37,590 --> 00:17:38,280
+myself
+
+438
+00:17:38,280 --> 00:17:40,980
+this is where I actually do like using a
+
+439
+00:17:40,980 --> 00:17:44,340
+service to handle dynamically resizing
+
+440
+00:17:44,340 --> 00:17:47,490
+images for me so there are two places
+
+441
+00:17:47,490 --> 00:17:49,140
+that I know of that can
+
+442
+00:17:49,140 --> 00:17:52,200
+do this image thing for you so the first
+
+443
+00:17:52,200 --> 00:17:55,170
+one is cloud nari and they are great on
+
+444
+00:17:55,170 --> 00:17:57,420
+a budget at least they're free tier
+
+445
+00:17:57,420 --> 00:18:00,360
+handles quite a bit of images so you pay
+
+446
+00:18:00,360 --> 00:18:03,420
+nothing upfront similar to how with the
+
+447
+00:18:03,420 --> 00:18:05,940
+cloud provider has a nice free tier and
+
+448
+00:18:05,940 --> 00:18:08,270
+then maybe you'll be paying more later
+
+449
+00:18:08,270 --> 00:18:10,890
+but the hard thing I have with this
+
+450
+00:18:10,890 --> 00:18:13,590
+service is or the hard thing to tell
+
+451
+00:18:13,590 --> 00:18:16,050
+from this is they give you monthly
+
+452
+00:18:16,050 --> 00:18:18,360
+credits so for example the free tier you
+
+453
+00:18:18,360 --> 00:18:20,880
+get 25 and just a side note I really
+
+454
+00:18:20,880 --> 00:18:22,470
+hate when these companies create their
+
+455
+00:18:22,470 --> 00:18:24,450
+own little currency like this it's very
+
+456
+00:18:24,450 --> 00:18:26,910
+hard to try to figure out how the
+
+457
+00:18:26,910 --> 00:18:30,720
+currency maps to actual spending but
+
+458
+00:18:30,720 --> 00:18:33,120
+anyway you get 25 credits which then
+
+459
+00:18:33,120 --> 00:18:35,400
+used to a hundred or a thousand
+
+460
+00:18:35,400 --> 00:18:38,520
+transformations one Giga storage or one
+
+461
+00:18:38,520 --> 00:18:41,070
+gig of net viewing bandwidth you get the
+
+462
+00:18:41,070 --> 00:18:42,990
+gist so what the credits could go to
+
+463
+00:18:42,990 --> 00:18:47,070
+some amount of image processing so it's
+
+464
+00:18:47,070 --> 00:18:48,900
+really hard to tell when exactly you
+
+465
+00:18:48,900 --> 00:18:51,570
+would hit threshold to be paying $89 a
+
+466
+00:18:51,570 --> 00:18:53,660
+month to be honest I'm not quite sure
+
+467
+00:18:53,660 --> 00:18:57,330
+when a project you really need or how
+
+468
+00:18:57,330 --> 00:18:59,280
+much usage you'd have before you reach
+
+469
+00:18:59,280 --> 00:19:01,260
+the threshold because it's kind of hard
+
+470
+00:19:01,260 --> 00:19:02,760
+to calculate ahead of time how much your
+
+471
+00:19:02,760 --> 00:19:05,220
+image usage is going to be so that's my
+
+472
+00:19:05,220 --> 00:19:06,750
+main beef with clouding area I think
+
+473
+00:19:06,750 --> 00:19:08,640
+it's really nice I think the service is
+
+474
+00:19:08,640 --> 00:19:10,140
+good but I personally haven't used them
+
+475
+00:19:10,140 --> 00:19:11,970
+a ton because I feel like their pricing
+
+476
+00:19:11,970 --> 00:19:15,030
+is a little less transparent than the
+
+477
+00:19:15,030 --> 00:19:17,910
+second option which is image X so with
+
+478
+00:19:17,910 --> 00:19:20,970
+this company how it works is you pay $3
+
+479
+00:19:20,970 --> 00:19:24,840
+per thousand images and then 8 cents per
+
+480
+00:19:24,840 --> 00:19:27,900
+gigabyte of bandwidth and then you can
+
+481
+00:19:27,900 --> 00:19:30,360
+transform the image with the property's
+
+482
+00:19:30,360 --> 00:19:31,680
+height width and then they have a
+
+483
+00:19:31,680 --> 00:19:33,300
+thousand other transformations you can
+
+484
+00:19:33,300 --> 00:19:36,000
+do as me as many times as you want it
+
+485
+00:19:36,000 --> 00:19:39,420
+doesn't cost extra so I have a very hard
+
+486
+00:19:39,420 --> 00:19:42,450
+time trying to compare this pricing take
+
+487
+00:19:42,450 --> 00:19:43,980
+Loudoun Aires and trying to figure out
+
+488
+00:19:43,980 --> 00:19:46,440
+well with this many credits how much is
+
+489
+00:19:46,440 --> 00:19:49,770
+it going to be on image X I'm not really
+
+490
+00:19:49,770 --> 00:19:52,140
+sure so if someone's done the math do
+
+491
+00:19:52,140 --> 00:19:54,380
+let me know but my gut instinct says
+
+492
+00:19:54,380 --> 00:19:57,720
+once you pass the free tier of cloud and
+
+493
+00:19:57,720 --> 00:19:59,730
+airy I feel like image X is going to be
+
+494
+00:19:59,730 --> 00:20:02,480
+less money but to be asked I haven't
+
+495
+00:20:02,480 --> 00:20:04,700
+no idea but I think both of them are
+
+496
+00:20:04,700 --> 00:20:06,049
+pretty good options I've really enjoyed
+
+497
+00:20:06,049 --> 00:20:07,970
+image X as a service I thought it's
+
+498
+00:20:07,970 --> 00:20:10,040
+worked out really great but they don't
+
+499
+00:20:10,040 --> 00:20:12,350
+have a free tier cloud Andheri does so
+
+500
+00:20:12,350 --> 00:20:14,330
+maybe cloud nare just strictly wins and
+
+501
+00:20:14,330 --> 00:20:16,100
+maybe it's even cheaper at the plus tier
+
+502
+00:20:16,100 --> 00:20:17,780
+that was the case I probably should
+
+503
+00:20:17,780 --> 00:20:19,850
+probably switch the cloud nari but I am
+
+504
+00:20:19,850 --> 00:20:21,620
+personally using image X right now
+
+505
+00:20:21,620 --> 00:20:23,929
+liking them but these are two really
+
+506
+00:20:23,929 --> 00:20:26,770
+good options for handling your images
+
+507
+00:20:26,770 --> 00:20:30,500
+but there you go in conclusion I like to
+
+508
+00:20:30,500 --> 00:20:34,130
+use cloud services if I am doing a
+
+509
+00:20:34,130 --> 00:20:36,260
+project where in the long term I see it
+
+510
+00:20:36,260 --> 00:20:37,880
+making a lot of money but maybe in the
+
+511
+00:20:37,880 --> 00:20:39,110
+short term I want to take advantage of
+
+512
+00:20:39,110 --> 00:20:42,080
+the free tier otherwise I like putting
+
+513
+00:20:42,080 --> 00:20:45,080
+my back-end my server on a virtual
+
+514
+00:20:45,080 --> 00:20:47,360
+machine for example using vulture and
+
+515
+00:20:47,360 --> 00:20:50,990
+then serving my website on net low Phi
+
+516
+00:20:50,990 --> 00:20:53,419
+and hosting my images on either cloud
+
+517
+00:20:53,419 --> 00:20:56,750
+Neri or on image X also one thing I
+
+518
+00:20:56,750 --> 00:20:58,940
+totally forgot to mention Culinaire will
+
+519
+00:20:58,940 --> 00:21:02,000
+actually host your images image X you
+
+520
+00:21:02,000 --> 00:21:03,440
+don't doesn't actually host your images
+
+521
+00:21:03,440 --> 00:21:05,059
+I forgot that's like a huge difference
+
+522
+00:21:05,059 --> 00:21:07,580
+actually so I actually have my images
+
+523
+00:21:07,580 --> 00:21:10,490
+stored on Google Cloud storage and then
+
+524
+00:21:10,490 --> 00:21:13,010
+image X is kind of a cache layer in
+
+525
+00:21:13,010 --> 00:21:14,990
+front of it so that's big thing to know
+
+526
+00:21:14,990 --> 00:21:17,900
+difference between the two but yeah I've
+
+527
+00:21:17,900 --> 00:21:20,929
+liked image X that's just a heads up so
+
+528
+00:21:20,929 --> 00:21:22,400
+there you go that is how you can deploy
+
+529
+00:21:22,400 --> 00:21:25,540
+on a budget
+
+530
+00:21:31,070 --> 00:21:33,129
+you
+

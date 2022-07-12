@@ -1,0 +1,468 @@
+﻿1
+00:00:01,610 --> 00:00:04,850
+so how does the internet work most of us
+
+2
+00:00:04,850 --> 00:00:06,830
+know how to use the internet without
+
+3
+00:00:06,830 --> 00:00:08,990
+actually understanding how it works sort
+
+4
+00:00:08,990 --> 00:00:11,240
+of like electricity in your home you use
+
+5
+00:00:11,240 --> 00:00:12,920
+it every day but may not understand the
+
+6
+00:00:12,920 --> 00:00:15,589
+mechanics behind it and if the electric
+
+7
+00:00:15,589 --> 00:00:17,360
+grid is difficult to understand then the
+
+8
+00:00:17,360 --> 00:00:20,270
+internet must be impossible right wrong
+
+9
+00:00:20,270 --> 00:00:23,000
+in the next few minutes I'll put you in
+
+10
+00:00:23,000 --> 00:00:24,320
+the top 10 percent of people who
+
+11
+00:00:24,320 --> 00:00:25,730
+understand how the internet actually
+
+12
+00:00:25,730 --> 00:00:28,730
+works for security catalyst comm I'm
+
+13
+00:00:28,730 --> 00:00:32,479
+Aaron Titus whenever most people think
+
+14
+00:00:32,479 --> 00:00:34,220
+of the Internet this is what comes to
+
+15
+00:00:34,220 --> 00:00:37,550
+mind the Internet is not a bubble cloud
+
+16
+00:00:37,550 --> 00:00:39,730
+even in the new age of cloud computing
+
+17
+00:00:39,730 --> 00:00:42,440
+the whole fuzzy cloud picture was
+
+18
+00:00:42,440 --> 00:00:43,880
+created by people more concerned about
+
+19
+00:00:43,880 --> 00:00:48,140
+job security than education this is the
+
+20
+00:00:48,140 --> 00:00:50,570
+internet the Internet is a wire actually
+
+21
+00:00:50,570 --> 00:00:53,330
+buried in the ground it might be fiber
+
+22
+00:00:53,330 --> 00:00:55,790
+optics copper or occasionally beamed to
+
+23
+00:00:55,790 --> 00:00:57,020
+satellites or through cell phone
+
+24
+00:00:57,020 --> 00:00:59,420
+networks but the Internet is simply a
+
+25
+00:00:59,420 --> 00:01:02,720
+wire the Internet is useful because two
+
+26
+00:01:02,720 --> 00:01:04,430
+computers connected directly to this
+
+27
+00:01:04,430 --> 00:01:07,010
+wire can communicate a server is a
+
+28
+00:01:07,010 --> 00:01:09,170
+special computer connected directly to
+
+29
+00:01:09,170 --> 00:01:11,660
+the Internet and web pages are files on
+
+30
+00:01:11,660 --> 00:01:15,020
+that servers hard drive every server has
+
+31
+00:01:15,020 --> 00:01:17,150
+a unique Internet Protocol address or IP
+
+32
+00:01:17,150 --> 00:01:20,240
+address just like a postal address IP
+
+33
+00:01:20,240 --> 00:01:22,120
+addresses help computers find each other
+
+34
+00:01:22,120 --> 00:01:26,930
+but since seven 2.14 205 done 100 it
+
+35
+00:01:26,930 --> 00:01:29,300
+doesn't exactly roll off the tongue we
+
+36
+00:01:29,300 --> 00:01:31,659
+also give them names like google.com
+
+37
+00:01:31,659 --> 00:01:34,659
+facebook.com or security catalyst comm
+
+38
+00:01:34,659 --> 00:01:36,800
+so this is how it works
+
+39
+00:01:36,800 --> 00:01:39,320
+your computer at home is not a server
+
+40
+00:01:39,320 --> 00:01:41,450
+because it's not connected directly to
+
+41
+00:01:41,450 --> 00:01:44,000
+the Internet computers you and I use
+
+42
+00:01:44,000 --> 00:01:46,010
+everyday are called clients because
+
+43
+00:01:46,010 --> 00:01:47,540
+they're connected indirectly to the
+
+44
+00:01:47,540 --> 00:01:49,190
+Internet through an Internet service
+
+45
+00:01:49,190 --> 00:01:51,590
+provider here we'll pretend that this is
+
+46
+00:01:51,590 --> 00:01:54,979
+my home laptop and I'm using DSL now
+
+47
+00:01:54,979 --> 00:01:56,180
+let's pretend that I want to visit
+
+48
+00:01:56,180 --> 00:01:59,000
+aol.com which is coincidentally both a
+
+49
+00:01:59,000 --> 00:02:02,810
+server and an ISP I hop onto my laptop
+
+50
+00:02:02,810 --> 00:02:05,720
+with DSL go through my ISP onto the
+
+51
+00:02:05,720 --> 00:02:08,989
+internet and look at aol.com my computer
+
+52
+00:02:08,989 --> 00:02:11,150
+connects with AOL comm and I can look at
+
+53
+00:02:11,150 --> 00:02:14,330
+its web pages now let's say that I want
+
+54
+00:02:14,330 --> 00:02:15,440
+to send an email to
+
+55
+00:02:15,440 --> 00:02:18,950
+and Ruth and Ruth has AOL dial-up from
+
+56
+00:02:18,950 --> 00:02:23,390
+home and I've got a gmail account I log
+
+57
+00:02:23,390 --> 00:02:26,000
+on to gmail.com and compose a message to
+
+58
+00:02:26,000 --> 00:02:28,130
+Aunt Ruth's email address Aunt Ruth's at
+
+59
+00:02:28,130 --> 00:02:29,240
+aol.com
+
+60
+00:02:29,240 --> 00:02:32,660
+once I click send gmail.com since the
+
+61
+00:02:32,660 --> 00:02:35,690
+email to Al well calm the next day Aunt
+
+62
+00:02:35,690 --> 00:02:38,300
+Ruth dials into AOL servers and
+
+63
+00:02:38,300 --> 00:02:41,690
+retrieves the email whenever an email
+
+64
+00:02:41,690 --> 00:02:43,790
+picture or webpage travels across the
+
+65
+00:02:43,790 --> 00:02:46,220
+internet computers break the information
+
+66
+00:02:46,220 --> 00:02:49,070
+into smaller pieces called packets when
+
+67
+00:02:49,070 --> 00:02:50,840
+information reaches its destination the
+
+68
+00:02:50,840 --> 00:02:52,460
+packets are reassembled in their
+
+69
+00:02:52,460 --> 00:02:54,680
+original order to make a picture email
+
+70
+00:02:54,680 --> 00:02:57,880
+web page or tweet
+
+71
+00:02:58,319 --> 00:03:00,880
+okay so imagine you're at work sitting
+
+72
+00:03:00,880 --> 00:03:02,410
+next to your boss and you're both
+
+73
+00:03:02,410 --> 00:03:05,200
+surfing online your boss is doing market
+
+74
+00:03:05,200 --> 00:03:06,940
+research and you're updating your
+
+75
+00:03:06,940 --> 00:03:09,520
+Facebook profile you're both sending
+
+76
+00:03:09,520 --> 00:03:11,310
+packets back and forth over the Internet
+
+77
+00:03:11,310 --> 00:03:13,900
+but what's to keep your packets from
+
+78
+00:03:13,900 --> 00:03:15,760
+accidentally ending up on your boss's
+
+79
+00:03:15,760 --> 00:03:19,150
+screen that could be embarrassing the
+
+80
+00:03:19,150 --> 00:03:21,520
+solution to that problem is IP addresses
+
+81
+00:03:21,520 --> 00:03:24,459
+and routers everything connected
+
+82
+00:03:24,459 --> 00:03:26,470
+directly or indirectly to the Internet
+
+83
+00:03:26,470 --> 00:03:29,350
+has an IP address everything that
+
+84
+00:03:29,350 --> 00:03:31,360
+includes your computer servers cell
+
+85
+00:03:31,360 --> 00:03:33,160
+phones and all of the equipment in
+
+86
+00:03:33,160 --> 00:03:36,250
+between anywhere two or more parts of
+
+87
+00:03:36,250 --> 00:03:38,200
+the internet intersect there's a piece
+
+88
+00:03:38,200 --> 00:03:41,110
+of equipment called a router routers
+
+89
+00:03:41,110 --> 00:03:42,940
+direct your packets around the internet
+
+90
+00:03:42,940 --> 00:03:44,950
+helping each packet get one step closer
+
+91
+00:03:44,950 --> 00:03:47,470
+to its destination every time you visit
+
+92
+00:03:47,470 --> 00:03:49,660
+a website upwards of ten to fifteen
+
+93
+00:03:49,660 --> 00:03:51,580
+routers may help your packets find their
+
+94
+00:03:51,580 --> 00:03:54,489
+way to and from your computer imagine
+
+95
+00:03:54,489 --> 00:03:56,680
+each packet as a piece of candy wrapped
+
+96
+00:03:56,680 --> 00:03:59,080
+in several layers the first layer is
+
+97
+00:03:59,080 --> 00:04:02,140
+your computer's IP address your computer
+
+98
+00:04:02,140 --> 00:04:03,820
+sends the packet to the first router
+
+99
+00:04:03,820 --> 00:04:07,209
+which adds its own IP address each time
+
+100
+00:04:07,209 --> 00:04:09,310
+the packet reaches a new router another
+
+101
+00:04:09,310 --> 00:04:11,140
+layer is added until it reaches the
+
+102
+00:04:11,140 --> 00:04:13,299
+server then when the server sends back
+
+103
+00:04:13,299 --> 00:04:14,200
+information
+
+104
+00:04:14,200 --> 00:04:16,209
+it creates packets with an identical
+
+105
+00:04:16,209 --> 00:04:18,399
+wrapping as the packet makes its way
+
+106
+00:04:18,399 --> 00:04:19,959
+over the internet back to your computer
+
+107
+00:04:19,959 --> 00:04:22,780
+each router unwraps a layer to discover
+
+108
+00:04:22,780 --> 00:04:24,700
+where to send the packet next until it
+
+109
+00:04:24,700 --> 00:04:26,500
+reaches your computer and not your
+
+110
+00:04:26,500 --> 00:04:30,100
+bosses and that's how the internet works
+
+111
+00:04:30,100 --> 00:04:32,290
+in five minutes or less and you're now
+
+112
+00:04:32,290 --> 00:04:34,060
+easily in the top 10 percent of people
+
+113
+00:04:34,060 --> 00:04:35,560
+who understand the basics of the
+
+114
+00:04:35,560 --> 00:04:37,750
+Internet if you found this video helpful
+
+115
+00:04:37,750 --> 00:04:40,330
+check out security catalyst comm for all
+
+116
+00:04:40,330 --> 00:04:42,220
+kinds of ideas on how to protect your
+
+117
+00:04:42,220 --> 00:04:46,620
+information I'm Aaron Titus
+

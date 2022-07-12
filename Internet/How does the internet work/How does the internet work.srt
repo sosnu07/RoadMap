@@ -1,0 +1,586 @@
+﻿1
+00:00:00,030 --> 00:00:03,000
+How does the internet work?
+
+2
+00:00:03,000 --> 00:00:05,000
+The video you are watching now
+
+3
+00:00:07,500 --> 00:00:10,500
+traveled thousands of miles from a Google Data Center to reach
+you.
+
+4
+00:00:13,500 --> 00:00:21,029
+Let's learn how the internet works by getting to understand the details of
+this data's incredible journey.
+
+5
+00:00:21,029 --> 00:00:25,380
+The data center which can be thousands of miles away from you has your video stored inside it.
+
+6
+00:00:25,380 --> 00:00:32,278
+how does this data reach your mobile phone or a laptop?
+
+7
+00:00:32,279 --> 00:00:36,120
+An easy way to achieve this goal would be with use of satellites.
+
+8
+00:00:36,120 --> 00:00:42,199
+From the data center, a signal could be
+sent to the satellite via an antenna,
+
+9
+00:00:42,710 --> 00:00:46,309
+and then from the satellite a signal
+could be sent to your mobile phone
+
+10
+00:00:46,309 --> 00:00:48,699
+via another antenna near to you.
+
+11
+00:00:48,700 --> 00:00:50,700
+However, this way of transmitting signals is not a good idea.
+
+12
+00:00:52,000 --> 00:00:54,000
+Let's see why.
+
+13
+00:00:54,000 --> 00:00:56,000
+The satellite is parked nearly 22,000 miles above the earth's equator,
+
+14
+00:00:58,250 --> 00:01:03,320
+so in order for the data transmission to be successful,
+
+15
+00:01:03,320 --> 00:01:06,619
+the data would have to travel a total distance of 44,000 miles.
+
+16
+00:01:06,619 --> 00:01:10,970
+Such a long distance of travel causes a
+significant delay in receiving the signal.
+
+17
+00:01:10,970 --> 00:01:16,190
+More specifically it causes huge
+latency which is unacceptable
+
+18
+00:01:16,190 --> 00:01:18,300
+for most internet applications
+
+19
+00:01:18,300 --> 00:01:20,300
+so if this video does not reach you via a satellite then
+
+20
+00:01:21,320 --> 00:01:23,399
+how does it actually get to you?
+
+21
+00:01:23,400 --> 00:01:25,400
+Well it is done with the help of a complicated
+
+22
+00:01:25,429 --> 00:01:27,100
+network of optical fiber cables,
+
+23
+00:01:27,100 --> 00:01:31,100
+which connect between the data center and your device.
+
+24
+00:01:33,030 --> 00:01:37,560
+Your phone could be connected to the
+internet via cellular data or any Wi-Fi router,
+
+25
+00:01:37,560 --> 00:01:40,600
+but ultimately at some point your
+phone will be connected
+
+26
+00:01:40,600 --> 00:01:45,710
+to this network of optical fiber cables
+
+27
+00:01:45,990 --> 00:01:49,300
+We saw at the beginning that the video
+you are currently watching
+
+28
+00:01:49,300 --> 00:01:53,600
+is stored inside a data center.
+
+29
+00:01:53,729 --> 00:01:58,110
+To be more specific, it is stored in a
+solid-state device within the data center.
+
+30
+00:01:58,110 --> 00:02:02,490
+This SSD acts as the internal memory of a server.
+
+31
+00:02:02,490 --> 00:02:07,289
+The server is simply a powerful computer
+whose job is to provide you the video or
+
+32
+00:02:07,289 --> 00:02:09,699
+other stored content when you request it.
+
+33
+00:02:09,699 --> 00:02:11,700
+Now the challenge is how to transfer the data stored
+
+34
+00:02:12,720 --> 00:02:16,769
+in the data center specifically to your device via the
+
+35
+00:02:16,769 --> 00:02:19,300
+complex network of optical fiber cables.
+
+36
+00:02:19,300 --> 00:02:21,300
+Let's see how this is done.
+
+37
+00:02:22,319 --> 00:02:26,000
+Before proceeding further we should first
+understand an important concept
+
+38
+00:02:26,000 --> 00:02:28,200
+which is the concept of an IP address.
+
+39
+00:02:28,200 --> 00:02:30,200
+Every device that is connected to the Internet
+
+40
+00:02:31,260 --> 00:02:36,599
+whether it is a server a computer or a
+mobile phone is identified uniquely by a
+
+41
+00:02:36,599 --> 00:02:39,399
+string of numbers known as an IP address.
+
+42
+00:02:39,400 --> 00:02:43,400
+You can consider the IP address similar
+
+43
+00:02:43,430 --> 00:02:48,400
+to your home address that is the address,
+that uniquely identifies your home.
+
+44
+00:02:49,430 --> 00:02:54,880
+Any letter sent to you reaches you precisely because of your home address.
+
+45
+00:02:55,500 --> 00:03:00,099
+Similarly in the internet world an IP
+address acts as a shipping address
+
+46
+00:03:00,099 --> 00:03:03,299
+through which all information reaches
+its destination.
+
+47
+00:03:03,300 --> 00:03:08,920
+Your internet service provider will decide the IP address of your device and you are able to see what
+
+48
+00:03:08,920 --> 00:03:14,530
+IP address your ISP has given to your
+mobile phone or laptop.
+
+49
+00:03:14,530 --> 00:03:20,109
+The server in the data center also has
+an IP address.
+
+50
+00:03:20,250 --> 00:03:25,080
+The server stores a website so you can
+access any website just by knowing the
+
+51
+00:03:25,080 --> 00:03:29,730
+server's IP address. However, it is
+difficult for a person to remember so
+
+52
+00:03:29,730 --> 00:03:30,299
+many IP addresses.
+
+53
+00:03:30,300 --> 00:03:33,300
+So to solve this problem domain names like
+
+54
+00:03:33,300 --> 00:03:39,400
+youtube.com, facebook.com etc are used which correspond to IP addresses
+
+55
+00:03:39,400 --> 00:03:43,000
+which are easier for us to remember than the long sequence of numbers
+
+56
+00:03:44,940 --> 00:03:48,690
+Another thing to notice here is that a server has the capability of storing several websites
+
+57
+00:03:48,690 --> 00:03:53,640
+and if the server consists of multiple
+websites all the websites cannot be
+
+58
+00:03:53,640 --> 00:03:56,600
+accessed with the server's IP address.
+
+59
+00:03:56,600 --> 00:03:58,600
+In such cases additional pieces of
+
+60
+00:03:58,650 --> 00:04:03,810
+information, host headers are used to
+uniquely identify the website.
+
+61
+00:04:03,810 --> 00:04:08,730
+However, for the giant web sites like Facebook.com or YouTube.com the entire data
+
+62
+00:04:08,730 --> 00:04:14,040
+center infrastructure will be dedicated
+to the storage of the particular website.
+
+63
+00:04:14,040 --> 00:04:20,000
+To access the internet we always use
+domain names instead of the complex IP address numbers.
+
+64
+00:04:20,000 --> 00:04:25,200
+From where does the internet get IP addresses corresponding to our domain name requests.
+
+65
+00:04:25,200 --> 00:04:32,099
+Well, for this purpose the internet uses a huge phone book known as DNS.
+
+66
+00:04:32,100 --> 00:04:34,350
+If you know a person's name, but don't know their telephone number
+
+67
+00:04:34,350 --> 00:04:38,000
+you can simply look it
+up in a phone book.
+
+68
+00:04:38,000 --> 00:04:43,080
+The DNS server provides the same service to the internet.
+
+69
+00:04:43,080 --> 00:04:48,620
+Your internet service provider or other organizations can manage the DNS server.
+
+70
+00:04:48,970 --> 00:04:51,000
+Let's have a recap of the whole operation.
+
+71
+00:04:52,000 --> 00:04:53,000
+You enter the domain name,
+
+72
+00:04:53,740 --> 00:04:57,910
+the browser sends a request to the DNS
+server to get the corresponding IP address.
+
+73
+00:04:57,910 --> 00:05:01,480
+After getting the IP address,
+
+74
+00:05:01,480 --> 00:05:04,480
+your browser simply forwards the request to the data center,
+
+75
+00:05:04,480 --> 00:05:08,319
+more specifically to the respective
+server.
+
+76
+00:05:08,319 --> 00:05:13,119
+Once the server gets a request to access
+a particular website the data flow starts.
+
+77
+00:05:13,119 --> 00:05:18,009
+The data is transferred in digital format via optical fiber cables,
+
+78
+00:05:18,009 --> 00:05:21,500
+more specifically in the form of light
+pulses.
+
+79
+00:05:21,500 --> 00:05:23,500
+These light pulses sometimes have
+
+80
+00:05:23,589 --> 00:05:27,789
+to travel thousands of miles via the
+optical fiber cable to reach their destination.
+
+81
+00:05:27,789 --> 00:05:31,899
+During their journey they often have to go through tough terrains
+
+82
+00:05:31,899 --> 00:05:34,400
+such as hilly areas or under the sea.
+
+83
+00:05:34,400 --> 00:05:36,400
+There are a few global companies who lay
+
+84
+00:05:37,479 --> 00:05:41,000
+and maintain these optical cable
+networks.
+
+85
+00:05:41,000 --> 00:05:47,639
+These visuals show how the laying of optical fiber cables is done with the help of a ship.
+
+86
+00:05:48,800 --> 00:05:52,449
+A plow is dropped deep into the sea from
+the ship,
+
+87
+00:05:52,449 --> 00:05:58,180
+and this plow creates a trench on the
+seabed and to which places the optical fiber cable.
+
+88
+00:05:59,420 --> 00:06:01,880
+In fact, this complex optical cable
+
+89
+00:06:01,880 --> 00:06:04,159
+network is the backbone of the Internet.
+
+90
+00:06:04,620 --> 00:06:06,620
+These optical fiber cables carrying the
+
+91
+00:06:06,940 --> 00:06:12,560
+light are stretched across the seabed to
+your doorstep where they are connected to a router.
+
+92
+00:06:13,440 --> 00:06:15,540
+The router converts these light signals
+
+93
+00:06:15,540 --> 00:06:17,480
+to electrical signals.
+
+94
+00:06:18,780 --> 00:06:20,880
+An Ethernet cable is then used to
+
+95
+00:06:20,880 --> 00:06:23,200
+transmit the electrical signals to your
+laptop.
+
+96
+00:06:24,080 --> 00:06:28,380
+However if you are accessing the Internet using cellular data,
+
+97
+00:06:28,520 --> 00:06:32,260
+from the optical cable the signal has to be sent to a cell tower
+
+98
+00:06:32,980 --> 00:06:35,400
+and from the cell tower the signal
+
+99
+00:06:35,400 --> 00:06:39,760
+reaches your cell phone in the form of
+electromagnetic waves.
+
+100
+00:06:40,360 --> 00:06:44,840
+Since the Internet is a global network
+it has become important to have an
+
+101
+00:06:44,840 --> 00:06:51,200
+organization to manage things like IP
+address assignment, domain name registration etc
+
+102
+00:06:51,720 --> 00:06:56,380
+this is all managed by
+an institution called ICANN located in the USA.
+
+103
+00:06:56,720 --> 00:06:59,300
+One amazing thing about the
+internet is its efficiency in
+
+104
+00:06:59,300 --> 00:07:04,640
+transmitting data when compared with
+cellular and landline communication technologies.
+
+105
+00:07:04,920 --> 00:07:08,140
+This video you are watching
+from the Google Data Center is sent to
+
+106
+00:07:08,140 --> 00:07:11,599
+you in the form of a huge collection of
+zeros and ones.
+
+107
+00:07:11,960 --> 00:07:16,659
+What makes the data transfer in the internet efficient is the way in which these zeros and ones
+
+108
+00:07:16,660 --> 00:07:21,260
+are chopped up into small chunks known
+as packets and transmitted.
+
+109
+00:07:21,460 --> 00:07:26,140
+Let's assume these streams of zeros and ones are divided into different packets by the
+
+110
+00:07:26,150 --> 00:07:30,330
+server where each packet consists of six
+bits.
+
+111
+00:07:30,330 --> 00:07:34,859
+Along with the bits of the video each
+packet also consists of the sequence
+
+112
+00:07:34,860 --> 00:07:39,020
+number and the IP addresses of the
+server and your phone.
+
+113
+00:07:39,300 --> 00:07:43,140
+With this information the packets are routed towards your phone.
+
+114
+00:07:43,400 --> 00:07:48,599
+It's not necessary that all packets are routed through the same path and each packet independently
+
+115
+00:07:48,600 --> 00:07:51,300
+takes the best route available at that
+time.
+
+116
+00:07:51,700 --> 00:07:56,479
+Upon reaching your phone the packets are reassembled according to their sequence number.
+
+117
+00:07:56,720 --> 00:08:01,500
+If it is the case that any packets fail to reach your phone and acknowledgement
+
+118
+00:08:01,500 --> 00:08:04,140
+is sent from your phone to resend the lost packets.
+
+119
+00:08:04,660 --> 00:08:06,660
+Now compare this with a postal network
+
+120
+00:08:07,040 --> 00:08:11,300
+with a good infrastructure, but the
+customers do not follow the basic rules
+
+121
+00:08:11,300 --> 00:08:13,460
+regarding the destination addresses.
+
+122
+00:08:13,720 --> 00:08:15,720
+In this scenario letters won't be able to
+
+123
+00:08:15,940 --> 00:08:18,280
+reach the correct destination.
+
+124
+00:08:19,320 --> 00:08:23,560
+Similarly in the internet we use
+something called protocols for the
+
+125
+00:08:23,560 --> 00:08:26,560
+management of this complex flow of data
+packets.
+
+126
+00:08:26,880 --> 00:08:28,400
+The protocols set the rules for
+
+127
+00:08:28,449 --> 00:08:32,860
+data packet conversion, attachment of the source and destination addresses to each packet
+
+128
+00:08:32,860 --> 00:08:38,020
+and the rules for routers etc for
+different applications the protocols
+
+129
+00:08:38,020 --> 00:08:39,579
+used are different.
+
+130
+00:08:41,559 --> 00:08:45,900
+We hope this video has given you a good understanding about how the internet
+works,
+
+131
+00:08:45,900 --> 00:08:49,199
+more specifically about the amazing journey of data packets
+
+132
+00:08:49,200 --> 00:08:51,760
+from the data center to your mobile phone.
+
+133
+00:08:52,260 --> 00:08:58,800
+Please don't forget to support us at
+patreon.com. Thank You!
+

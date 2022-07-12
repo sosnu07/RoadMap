@@ -1,0 +1,1520 @@
+﻿1
+00:00:00,080 --> 00:00:01,839
+hey guys my name is christian taylor
+
+2
+00:00:01,839 --> 00:00:03,280
+welcome back to crailer made where i
+
+3
+00:00:03,280 --> 00:00:04,720
+like to talk about all things
+
+4
+00:00:04,720 --> 00:00:07,279
+branding marketing and entrepreneurship
+
+5
+00:00:07,279 --> 00:00:09,120
+when building your first wordpress
+
+6
+00:00:09,120 --> 00:00:09,840
+website
+
+7
+00:00:09,840 --> 00:00:12,559
+you probably googled wordpress hosts or
+
+8
+00:00:12,559 --> 00:00:14,080
+how to install wordpress
+
+9
+00:00:14,080 --> 00:00:15,440
+and went down the rabbit trail of
+
+10
+00:00:15,440 --> 00:00:17,600
+exploring the most popular wordpress
+
+11
+00:00:17,600 --> 00:00:18,400
+hosts
+
+12
+00:00:18,400 --> 00:00:19,920
+if you're new to wordpress you are
+
+13
+00:00:19,920 --> 00:00:22,080
+likely confused by the wide variety of
+
+14
+00:00:22,080 --> 00:00:24,880
+hosting packages offered by companies
+
+15
+00:00:24,880 --> 00:00:27,119
+what is shared hosting can it run
+
+16
+00:00:27,119 --> 00:00:28,000
+wordpress
+
+17
+00:00:28,000 --> 00:00:31,039
+and what is a vps some hosts say they're
+
+18
+00:00:31,039 --> 00:00:31,760
+managed
+
+19
+00:00:31,760 --> 00:00:34,239
+some are unmanaged what's the difference
+
+20
+00:00:34,239 --> 00:00:35,840
+today i'll be breaking down what you
+
+21
+00:00:35,840 --> 00:00:37,520
+need to know about different types of
+
+22
+00:00:37,520 --> 00:00:38,480
+web hosting
+
+23
+00:00:38,480 --> 00:00:40,879
+so first let's start with shared hosting
+
+24
+00:00:40,879 --> 00:00:42,800
+shared hosting explains itself in the
+
+25
+00:00:42,800 --> 00:00:43,360
+name
+
+26
+00:00:43,360 --> 00:00:45,360
+you're sharing your hosting with others
+
+27
+00:00:45,360 --> 00:00:46,800
+but what does that mean
+
+28
+00:00:46,800 --> 00:00:48,879
+is this a good thing or a bad thing well
+
+29
+00:00:48,879 --> 00:00:50,719
+in my video where i explain the basics
+
+30
+00:00:50,719 --> 00:00:51,840
+of web hosting
+
+31
+00:00:51,840 --> 00:00:54,399
+i talk about web hosting being a server
+
+32
+00:00:54,399 --> 00:00:55,440
+or souped up
+
+33
+00:00:55,440 --> 00:00:58,239
+computer where your website files live
+
+34
+00:00:58,239 --> 00:01:00,000
+when someone types in your domain name
+
+35
+00:01:00,000 --> 00:01:01,920
+their computer points to the server
+
+36
+00:01:01,920 --> 00:01:04,239
+downloads the website files and displays
+
+37
+00:01:04,239 --> 00:01:05,040
+the website
+
+38
+00:01:05,040 --> 00:01:06,799
+so with shared web hosting you're
+
+39
+00:01:06,799 --> 00:01:08,799
+sharing a server with many people
+
+40
+00:01:08,799 --> 00:01:10,720
+it really varies based on the web host
+
+41
+00:01:10,720 --> 00:01:12,159
+but there may be as many as
+
+42
+00:01:12,159 --> 00:01:14,960
+hundreds or thousands of other websites
+
+43
+00:01:14,960 --> 00:01:17,280
+hosted on the same server as yours
+
+44
+00:01:17,280 --> 00:01:18,880
+the pros to this are that you can get
+
+45
+00:01:18,880 --> 00:01:21,200
+hosting at a crazy affordable cost
+
+46
+00:01:21,200 --> 00:01:23,040
+anywhere from two dollars a month to ten
+
+47
+00:01:23,040 --> 00:01:24,960
+dollars a month is pretty reasonable for
+
+48
+00:01:24,960 --> 00:01:26,799
+basic shared hosting it's the most
+
+49
+00:01:26,799 --> 00:01:28,880
+economic way to start a website and it's
+
+50
+00:01:28,880 --> 00:01:30,640
+where i recommend you start unless you
+
+51
+00:01:30,640 --> 00:01:31,680
+know you're going to get a
+
+52
+00:01:31,680 --> 00:01:34,079
+huge surge in traffic on your website
+
+53
+00:01:34,079 --> 00:01:36,000
+and that's the downside of shared
+
+54
+00:01:36,000 --> 00:01:36,799
+hosting
+
+55
+00:01:36,799 --> 00:01:39,280
+resources your website is on a server
+
+56
+00:01:39,280 --> 00:01:40,240
+with potentially
+
+57
+00:01:40,240 --> 00:01:42,560
+thousands of other websites and everyone
+
+58
+00:01:42,560 --> 00:01:43,920
+is sharing the same ram
+
+59
+00:01:43,920 --> 00:01:46,000
+and processor it's not always as bad as
+
+60
+00:01:46,000 --> 00:01:48,079
+it sounds because hosting platforms have
+
+61
+00:01:48,079 --> 00:01:50,720
+a way to compartmentalize resources and
+
+62
+00:01:50,720 --> 00:01:53,360
+make sure that there's not a hog website
+
+63
+00:01:53,360 --> 00:01:55,680
+using up all the power but it's still a
+
+64
+00:01:55,680 --> 00:01:56,560
+limitation
+
+65
+00:01:56,560 --> 00:01:58,799
+if you're getting 1 100th of the ram and
+
+66
+00:01:58,799 --> 00:02:00,320
+processor of a server
+
+67
+00:02:00,320 --> 00:02:02,159
+your website may load quickly for a
+
+68
+00:02:02,159 --> 00:02:03,600
+light or medium load
+
+69
+00:02:03,600 --> 00:02:05,520
+but say you're an ecommerce store and
+
+70
+00:02:05,520 --> 00:02:07,439
+you get a spike in traffic from a black
+
+71
+00:02:07,439 --> 00:02:08,560
+friday sale
+
+72
+00:02:08,560 --> 00:02:10,639
+these types of scenarios are not handled
+
+73
+00:02:10,639 --> 00:02:12,160
+well by shared hosting
+
+74
+00:02:12,160 --> 00:02:14,000
+the other downside of shared hosting is
+
+75
+00:02:14,000 --> 00:02:16,000
+being affected by denial of service
+
+76
+00:02:16,000 --> 00:02:16,640
+attacks
+
+77
+00:02:16,640 --> 00:02:18,800
+or other forms of malicious attacks that
+
+78
+00:02:18,800 --> 00:02:19,680
+can happen on
+
+79
+00:02:19,680 --> 00:02:22,080
+other users websites i want to be clear
+
+80
+00:02:22,080 --> 00:02:22,800
+here and say
+
+81
+00:02:22,800 --> 00:02:24,720
+just because someone else's site on your
+
+82
+00:02:24,720 --> 00:02:26,080
+server gets hacked
+
+83
+00:02:26,080 --> 00:02:28,720
+doesn't mean your site is hacked again
+
+84
+00:02:28,720 --> 00:02:30,640
+shared hosting platforms separate and
+
+85
+00:02:30,640 --> 00:02:32,640
+compartmentalized hosting accounts to
+
+86
+00:02:32,640 --> 00:02:34,080
+stop that from happening
+
+87
+00:02:34,080 --> 00:02:35,760
+but your site can be affected by
+
+88
+00:02:35,760 --> 00:02:37,760
+specialized forms of attacks like a
+
+89
+00:02:37,760 --> 00:02:39,360
+denial of service attack
+
+90
+00:02:39,360 --> 00:02:41,840
+on another website think of it this way
+
+91
+00:02:41,840 --> 00:02:43,360
+say you're in an office building with a
+
+92
+00:02:43,360 --> 00:02:44,640
+hundred cubicles
+
+93
+00:02:44,640 --> 00:02:46,640
+if one cubicle gets breached you're
+
+94
+00:02:46,640 --> 00:02:48,720
+still safe but if the power to the
+
+95
+00:02:48,720 --> 00:02:51,360
+entire office building gets compromised
+
+96
+00:02:51,360 --> 00:02:53,519
+everyone in the office is affected even
+
+97
+00:02:53,519 --> 00:02:55,120
+if the hacker didn't even know your
+
+98
+00:02:55,120 --> 00:02:56,319
+website existed
+
+99
+00:02:56,319 --> 00:02:57,840
+and they were just trying to mess with
+
+100
+00:02:57,840 --> 00:03:00,080
+someone else's it could cause your site
+
+101
+00:03:00,080 --> 00:03:02,319
+to go down if they do a certain type of
+
+102
+00:03:02,319 --> 00:03:02,800
+attack
+
+103
+00:03:02,800 --> 00:03:05,280
+that affects the server and not just the
+
+104
+00:03:05,280 --> 00:03:06,000
+website
+
+105
+00:03:06,000 --> 00:03:08,239
+so is shared hosting really worth it
+
+106
+00:03:08,239 --> 00:03:10,080
+well again if you're running a casual
+
+107
+00:03:10,080 --> 00:03:12,000
+blog or small business website
+
+108
+00:03:12,000 --> 00:03:13,920
+i think shared hosting is absolutely
+
+109
+00:03:13,920 --> 00:03:16,000
+worth it it's readily available
+
+110
+00:03:16,000 --> 00:03:18,319
+offered by almost every hosting company
+
+111
+00:03:18,319 --> 00:03:19,680
+and highly affordable
+
+112
+00:03:19,680 --> 00:03:21,120
+if you're watching this video and you
+
+113
+00:03:21,120 --> 00:03:22,879
+just want to build your first wordpress
+
+114
+00:03:22,879 --> 00:03:23,599
+website
+
+115
+00:03:23,599 --> 00:03:25,200
+i think you're good to start out with
+
+116
+00:03:25,200 --> 00:03:27,599
+shared hosting alright so what is vps
+
+117
+00:03:27,599 --> 00:03:30,000
+hosting a vps is a virtual private
+
+118
+00:03:30,000 --> 00:03:30,720
+server
+
+119
+00:03:30,720 --> 00:03:33,200
+now this is a bit of a wacky concept a
+
+120
+00:03:33,200 --> 00:03:34,959
+vps acts like its own
+
+121
+00:03:34,959 --> 00:03:37,519
+isolated server but it's shared with
+
+122
+00:03:37,519 --> 00:03:39,519
+other virtual private servers on
+
+123
+00:03:39,519 --> 00:03:42,480
+a single physical hardware server you're
+
+124
+00:03:42,480 --> 00:03:43,200
+probably like
+
+125
+00:03:43,200 --> 00:03:45,120
+wait a minute so shared hosting is
+
+126
+00:03:45,120 --> 00:03:46,560
+shared on a server and
+
+127
+00:03:46,560 --> 00:03:48,560
+a vps is shared too what's the
+
+128
+00:03:48,560 --> 00:03:51,200
+difference well a vps takes the level of
+
+129
+00:03:51,200 --> 00:03:53,120
+separation a step further
+
+130
+00:03:53,120 --> 00:03:56,080
+giving you dedicated resources x amount
+
+131
+00:03:56,080 --> 00:03:56,720
+of ram
+
+132
+00:03:56,720 --> 00:03:59,439
+x shares of a cpu and a virtual server
+
+133
+00:03:59,439 --> 00:04:00,000
+that's your
+
+134
+00:04:00,000 --> 00:04:02,720
+own oftentimes with cheap shared hosting
+
+135
+00:04:02,720 --> 00:04:03,360
+companies
+
+136
+00:04:03,360 --> 00:04:05,760
+oversell their servers this means that
+
+137
+00:04:05,760 --> 00:04:07,599
+they put more websites on the server
+
+138
+00:04:07,599 --> 00:04:09,519
+than it can theoretically handle
+
+139
+00:04:09,519 --> 00:04:11,439
+and they bank on x percentage of
+
+140
+00:04:11,439 --> 00:04:13,760
+customers never setting up their website
+
+141
+00:04:13,760 --> 00:04:14,159
+or
+
+142
+00:04:14,159 --> 00:04:16,238
+setting up a website that never gets any
+
+143
+00:04:16,238 --> 00:04:18,880
+traffic this usually works out but if
+
+144
+00:04:18,880 --> 00:04:20,880
+their load is higher than expected
+
+145
+00:04:20,880 --> 00:04:24,000
+say on black friday everyone's website
+
+146
+00:04:24,000 --> 00:04:24,720
+suffers
+
+147
+00:04:24,720 --> 00:04:26,880
+this really comes down to the web host
+
+148
+00:04:26,880 --> 00:04:29,360
+and with premium hosts like wp engine
+
+149
+00:04:29,360 --> 00:04:30,400
+and flywheel
+
+150
+00:04:30,400 --> 00:04:33,040
+you won't face this problem with a vps
+
+151
+00:04:33,040 --> 00:04:33,840
+while you're still
+
+152
+00:04:33,840 --> 00:04:35,919
+sharing a physical server you're
+
+153
+00:04:35,919 --> 00:04:37,840
+guaranteed the resources you're paying
+
+154
+00:04:37,840 --> 00:04:38,320
+for
+
+155
+00:04:38,320 --> 00:04:40,320
+it's a virtual computer that requires
+
+156
+00:04:40,320 --> 00:04:41,680
+its own set of ram
+
+157
+00:04:41,680 --> 00:04:44,479
+cpu and disk space and no one else can
+
+158
+00:04:44,479 --> 00:04:45,280
+pull from that
+
+159
+00:04:45,280 --> 00:04:47,919
+it has to be reserved for you think of
+
+160
+00:04:47,919 --> 00:04:48,800
+it like this
+
+161
+00:04:48,800 --> 00:04:51,040
+with shared hosting you have a folder on
+
+162
+00:04:51,040 --> 00:04:52,880
+a computer with hundreds of other
+
+163
+00:04:52,880 --> 00:04:53,440
+folders
+
+164
+00:04:53,440 --> 00:04:55,840
+on the same computer with a virtual
+
+165
+00:04:55,840 --> 00:04:56,880
+private server
+
+166
+00:04:56,880 --> 00:04:59,040
+you have a virtual computer all to
+
+167
+00:04:59,040 --> 00:05:01,759
+yourself so a vps can have any operating
+
+168
+00:05:01,759 --> 00:05:02,320
+system
+
+169
+00:05:02,320 --> 00:05:04,800
+windows or linux and you can change any
+
+170
+00:05:04,800 --> 00:05:06,080
+setting and configure
+
+171
+00:05:06,080 --> 00:05:08,400
+anything exactly how you want this
+
+172
+00:05:08,400 --> 00:05:10,479
+effectively beats the two downsides to
+
+173
+00:05:10,479 --> 00:05:11,600
+shared hosting
+
+174
+00:05:11,600 --> 00:05:13,440
+you can have significantly more server
+
+175
+00:05:13,440 --> 00:05:15,280
+resources than with a shared hosting
+
+176
+00:05:15,280 --> 00:05:16,000
+account
+
+177
+00:05:16,000 --> 00:05:18,400
+and vpss are known for being easily
+
+178
+00:05:18,400 --> 00:05:19,440
+scalable
+
+179
+00:05:19,440 --> 00:05:21,280
+you could go from four gigs of ram to
+
+180
+00:05:21,280 --> 00:05:22,960
+eight gigs of ram with a click
+
+181
+00:05:22,960 --> 00:05:26,400
+upgrade storage etc with a quality vps
+
+182
+00:05:26,400 --> 00:05:26,880
+host
+
+183
+00:05:26,880 --> 00:05:28,479
+everything is modular and can be
+
+184
+00:05:28,479 --> 00:05:30,720
+upgraded and downgraded with a snap
+
+185
+00:05:30,720 --> 00:05:32,800
+so this time on black friday if your
+
+186
+00:05:32,800 --> 00:05:34,800
+server is unable to handle the load
+
+187
+00:05:34,800 --> 00:05:36,400
+click a button upgrade to a more
+
+188
+00:05:36,400 --> 00:05:38,320
+powerful vps for the day
+
+189
+00:05:38,320 --> 00:05:40,400
+that can handle the surge in traffic and
+
+190
+00:05:40,400 --> 00:05:41,440
+then when you're done
+
+191
+00:05:41,440 --> 00:05:44,320
+simply downgrade to the vps you had it's
+
+192
+00:05:44,320 --> 00:05:45,039
+really cool
+
+193
+00:05:45,039 --> 00:05:47,120
+furthermore with the vps someone would
+
+194
+00:05:47,120 --> 00:05:48,880
+have to target your virtual private
+
+195
+00:05:48,880 --> 00:05:51,440
+server with a hack specifically
+
+196
+00:05:51,440 --> 00:05:53,120
+even if someone took down another
+
+197
+00:05:53,120 --> 00:05:54,880
+virtual private server that's on the
+
+198
+00:05:54,880 --> 00:05:55,440
+same
+
+199
+00:05:55,440 --> 00:05:58,240
+physical server as yours your server
+
+200
+00:05:58,240 --> 00:06:00,319
+cannot be affected since it's treated as
+
+201
+00:06:00,319 --> 00:06:02,400
+an entirely separate computer with
+
+202
+00:06:02,400 --> 00:06:04,160
+shared hosting there are sometimes a few
+
+203
+00:06:04,160 --> 00:06:05,759
+different plans you can upgrade to
+
+204
+00:06:05,759 --> 00:06:08,400
+offering vague promises like double the
+
+205
+00:06:08,400 --> 00:06:09,120
+speed
+
+206
+00:06:09,120 --> 00:06:11,120
+but what does that really mean your
+
+207
+00:06:11,120 --> 00:06:13,280
+server resource customization options
+
+208
+00:06:13,280 --> 00:06:15,360
+are highly limited with basic shared
+
+209
+00:06:15,360 --> 00:06:15,919
+hosting
+
+210
+00:06:15,919 --> 00:06:18,400
+since a vps is your own private server
+
+211
+00:06:18,400 --> 00:06:20,000
+you get to make the rules for the most
+
+212
+00:06:20,000 --> 00:06:22,400
+part you can host as many websites as
+
+213
+00:06:22,400 --> 00:06:23,199
+you like
+
+214
+00:06:23,199 --> 00:06:25,280
+host email although i don't recommend
+
+215
+00:06:25,280 --> 00:06:27,360
+that the sky is the limit
+
+216
+00:06:27,360 --> 00:06:28,960
+with shared hosting there are often
+
+217
+00:06:28,960 --> 00:06:31,120
+limits to how many sql databases you can
+
+218
+00:06:31,120 --> 00:06:31,680
+create
+
+219
+00:06:31,680 --> 00:06:33,680
+or how many domain names you can connect
+
+220
+00:06:33,680 --> 00:06:35,199
+to one hosting account
+
+221
+00:06:35,199 --> 00:06:37,919
+but with the vps it's all yours and you
+
+222
+00:06:37,919 --> 00:06:39,759
+can do whatever you want with it
+
+223
+00:06:39,759 --> 00:06:41,840
+of course it's your job to find a vps
+
+224
+00:06:41,840 --> 00:06:43,440
+with the appropriate power for your
+
+225
+00:06:43,440 --> 00:06:44,160
+needs
+
+226
+00:06:44,160 --> 00:06:45,280
+and if you're going to put a large
+
+227
+00:06:45,280 --> 00:06:47,120
+amount of websites on it you'll want to
+
+228
+00:06:47,120 --> 00:06:49,440
+pay for a beefier vps that can handle
+
+229
+00:06:49,440 --> 00:06:50,160
+the load
+
+230
+00:06:50,160 --> 00:06:52,720
+so a vps is indefinitely more powerful
+
+231
+00:06:52,720 --> 00:06:55,039
+but it does come with big downsides
+
+232
+00:06:55,039 --> 00:06:57,440
+a vps on its own is a massive headache
+
+233
+00:06:57,440 --> 00:06:59,680
+to manage if you aren't a tech geek
+
+234
+00:06:59,680 --> 00:07:02,000
+i consider myself tech savvy but it's a
+
+235
+00:07:02,000 --> 00:07:04,080
+challenge for me to manage a traditional
+
+236
+00:07:04,080 --> 00:07:06,080
+vps by itself
+
+237
+00:07:06,080 --> 00:07:08,560
+i say traditional vps by itself because
+
+238
+00:07:08,560 --> 00:07:10,080
+this is where the concept of
+
+239
+00:07:10,080 --> 00:07:12,960
+managed hosting comes in a managed vps
+
+240
+00:07:12,960 --> 00:07:14,880
+host like cloudways will allow you to
+
+241
+00:07:14,880 --> 00:07:17,199
+have your own vps from a cloud provider
+
+242
+00:07:17,199 --> 00:07:18,000
+you choose
+
+243
+00:07:18,000 --> 00:07:19,919
+but they handle all the technical side
+
+244
+00:07:19,919 --> 00:07:22,240
+of getting it set up and configuring it
+
+245
+00:07:22,240 --> 00:07:23,840
+you have a clean and simple management
+
+246
+00:07:23,840 --> 00:07:25,840
+panel so you can just add a new website
+
+247
+00:07:25,840 --> 00:07:27,840
+to the server whenever you want
+
+248
+00:07:27,840 --> 00:07:30,080
+typically with a vps you'd have to get
+
+249
+00:07:30,080 --> 00:07:32,080
+your hands dirty and mess with a command
+
+250
+00:07:32,080 --> 00:07:32,639
+line
+
+251
+00:07:32,639 --> 00:07:34,960
+but with a managed vps you just have a
+
+252
+00:07:34,960 --> 00:07:36,319
+convenient panel like
+
+253
+00:07:36,319 --> 00:07:38,400
+shared hosting but you get to leverage
+
+254
+00:07:38,400 --> 00:07:41,680
+the big power advantages of a vps
+
+255
+00:07:41,680 --> 00:07:43,520
+obviously this is a lot more expensive
+
+256
+00:07:43,520 --> 00:07:45,680
+than an unmanaged vps but it can
+
+257
+00:07:45,680 --> 00:07:47,520
+definitely be worth it depending on your
+
+258
+00:07:47,520 --> 00:07:48,400
+needs
+
+259
+00:07:48,400 --> 00:07:50,319
+so the last main kind of hosting is
+
+260
+00:07:50,319 --> 00:07:53,120
+dedicated hosting or a dedicated server
+
+261
+00:07:53,120 --> 00:07:55,440
+and this one's pretty easy to understand
+
+262
+00:07:55,440 --> 00:07:57,599
+take all the advantages of a vps
+
+263
+00:07:57,599 --> 00:07:59,360
+but now visualize yourself having an
+
+264
+00:07:59,360 --> 00:08:02,319
+entire physical server to yourself
+
+265
+00:08:02,319 --> 00:08:05,360
+picture a server in your head got it you
+
+266
+00:08:05,360 --> 00:08:06,319
+see it
+
+267
+00:08:06,319 --> 00:08:09,199
+yeah that's yours all of it the entire
+
+268
+00:08:09,199 --> 00:08:09,680
+thing
+
+269
+00:08:09,680 --> 00:08:11,759
+it's only your stuff hosted on it and
+
+270
+00:08:11,759 --> 00:08:12,879
+nothing else
+
+271
+00:08:12,879 --> 00:08:15,039
+in my honest opinion a dedicated server
+
+272
+00:08:15,039 --> 00:08:16,080
+is in some ways
+
+273
+00:08:16,080 --> 00:08:18,800
+worse than a vps sure it's theoretically
+
+274
+00:08:18,800 --> 00:08:20,560
+the most powerful option because you're
+
+275
+00:08:20,560 --> 00:08:22,400
+not sharing it with anyone
+
+276
+00:08:22,400 --> 00:08:24,319
+but you can't easily upgrade it or
+
+277
+00:08:24,319 --> 00:08:26,240
+downgrade it like a vps
+
+278
+00:08:26,240 --> 00:08:28,639
+it's also insanely expensive and i
+
+279
+00:08:28,639 --> 00:08:30,080
+personally would stay away from a
+
+280
+00:08:30,080 --> 00:08:31,199
+dedicated server
+
+281
+00:08:31,199 --> 00:08:33,120
+unless you already knew what it was
+
+282
+00:08:33,120 --> 00:08:34,799
+before watching this video
+
+283
+00:08:34,799 --> 00:08:36,559
+there's really no reason to use it
+
+284
+00:08:36,559 --> 00:08:38,320
+unless you're a giant company and you
+
+285
+00:08:38,320 --> 00:08:40,640
+need multiple dedicated servers working
+
+286
+00:08:40,640 --> 00:08:42,640
+together to host your files
+
+287
+00:08:42,640 --> 00:08:44,159
+but then again if you know what a
+
+288
+00:08:44,159 --> 00:08:46,320
+dedicated server is you probably know
+
+289
+00:08:46,320 --> 00:08:47,360
+what aws
+
+290
+00:08:47,360 --> 00:08:49,839
+azure and digitalocean are too and
+
+291
+00:08:49,839 --> 00:08:51,920
+modular cloud computing is looking like
+
+292
+00:08:51,920 --> 00:08:52,399
+a far
+
+293
+00:08:52,399 --> 00:08:54,560
+better choice for very advanced hosting
+
+294
+00:08:54,560 --> 00:08:57,040
+projects instead of dedicated servers
+
+295
+00:08:57,040 --> 00:08:59,360
+alright so that was a lot to process but
+
+296
+00:08:59,360 --> 00:09:00,720
+i want to give some examples of
+
+297
+00:09:00,720 --> 00:09:02,640
+real-world hosting packages and
+
+298
+00:09:02,640 --> 00:09:04,720
+categorize where they fall to help you
+
+299
+00:09:04,720 --> 00:09:06,640
+better understand different types of web
+
+300
+00:09:06,640 --> 00:09:07,200
+hosting
+
+301
+00:09:07,200 --> 00:09:09,279
+let's look at dreamhost here we can see
+
+302
+00:09:09,279 --> 00:09:10,480
+that they actually offer
+
+303
+00:09:10,480 --> 00:09:12,480
+every kind of hosting we talked about
+
+304
+00:09:12,480 --> 00:09:14,320
+we've got standard shared hosting which
+
+305
+00:09:14,320 --> 00:09:15,200
+is affordable
+
+306
+00:09:15,200 --> 00:09:16,800
+comes with basic support and a
+
+307
+00:09:16,800 --> 00:09:19,519
+management panel we have managed vps
+
+308
+00:09:19,519 --> 00:09:20,080
+hosting
+
+309
+00:09:20,080 --> 00:09:22,480
+managed wordpress hosting and dedicated
+
+310
+00:09:22,480 --> 00:09:23,519
+server hosting
+
+311
+00:09:23,519 --> 00:09:25,200
+now wait a minute what is managed
+
+312
+00:09:25,200 --> 00:09:27,279
+wordpress hosting is it shared
+
+313
+00:09:27,279 --> 00:09:29,839
+is it a vps well in this case it's
+
+314
+00:09:29,839 --> 00:09:30,399
+shared
+
+315
+00:09:30,399 --> 00:09:32,320
+but it's premium managed wordpress
+
+316
+00:09:32,320 --> 00:09:33,600
+hosting think
+
+317
+00:09:33,600 --> 00:09:37,200
+dreampress wp engine flywheel and kinsta
+
+318
+00:09:37,200 --> 00:09:39,040
+these hosts go above and beyond to
+
+319
+00:09:39,040 --> 00:09:40,959
+provide a reliable and fast
+
+320
+00:09:40,959 --> 00:09:43,600
+experience using isolated containers
+
+321
+00:09:43,600 --> 00:09:45,360
+similar to a vps
+
+322
+00:09:45,360 --> 00:09:47,440
+in other words with a premium managed
+
+323
+00:09:47,440 --> 00:09:48,480
+wordpress host
+
+324
+00:09:48,480 --> 00:09:50,240
+it is shared but you're not going to
+
+325
+00:09:50,240 --> 00:09:52,560
+face the major throttling problems
+
+326
+00:09:52,560 --> 00:09:54,800
+or other issues you get with economy
+
+327
+00:09:54,800 --> 00:09:55,920
+shared hosting
+
+328
+00:09:55,920 --> 00:09:57,920
+since it's managed you can expect great
+
+329
+00:09:57,920 --> 00:10:00,480
+support access to staging environments
+
+330
+00:10:00,480 --> 00:10:00,800
+and
+
+331
+00:10:00,800 --> 00:10:03,279
+automatic backups with one-click restore
+
+332
+00:10:03,279 --> 00:10:05,360
+if money is no factor for you this is
+
+333
+00:10:05,360 --> 00:10:07,519
+arguably the best wordpress hosting you
+
+334
+00:10:07,519 --> 00:10:09,200
+can get for your site when it comes to
+
+335
+00:10:09,200 --> 00:10:11,040
+the different types of web hosting
+
+336
+00:10:11,040 --> 00:10:12,480
+i think you need to step back and look
+
+337
+00:10:12,480 --> 00:10:14,240
+at the features and practicality
+
+338
+00:10:14,240 --> 00:10:16,800
+first over the category is the hosting
+
+339
+00:10:16,800 --> 00:10:18,640
+within your budget do you require
+
+340
+00:10:18,640 --> 00:10:20,320
+hands-on support or are you
+
+341
+00:10:20,320 --> 00:10:22,000
+okay with poking around and figuring
+
+342
+00:10:22,000 --> 00:10:24,399
+things out do you need development tools
+
+343
+00:10:24,399 --> 00:10:26,399
+like a staging environment and automatic
+
+344
+00:10:26,399 --> 00:10:27,600
+daily backups
+
+345
+00:10:27,600 --> 00:10:29,680
+focus on these first and the features
+
+346
+00:10:29,680 --> 00:10:31,200
+will help you narrow down whether you
+
+347
+00:10:31,200 --> 00:10:32,480
+need shared hosting
+
+348
+00:10:32,480 --> 00:10:35,279
+vps hosting and managed or unmanaged
+
+349
+00:10:35,279 --> 00:10:36,079
+hosting
+
+350
+00:10:36,079 --> 00:10:37,600
+if you'd like to see me create a video
+
+351
+00:10:37,600 --> 00:10:39,279
+talking about what to look for in a web
+
+352
+00:10:39,279 --> 00:10:39,760
+host
+
+353
+00:10:39,760 --> 00:10:41,680
+drop a comment below if you're starting
+
+354
+00:10:41,680 --> 00:10:43,760
+out i'd recommend basic shared hosting
+
+355
+00:10:43,760 --> 00:10:45,680
+from namecheap or dreamhost
+
+356
+00:10:45,680 --> 00:10:47,519
+if you need more power or features like
+
+357
+00:10:47,519 --> 00:10:49,120
+a staging environment or high-end
+
+358
+00:10:49,120 --> 00:10:50,000
+support
+
+359
+00:10:50,000 --> 00:10:52,399
+go with flywheel or wp engine if you
+
+360
+00:10:52,399 --> 00:10:54,160
+just have one website
+
+361
+00:10:54,160 --> 00:10:56,160
+if you host several wordpress websites
+
+362
+00:10:56,160 --> 00:10:58,000
+and are looking for the ultimate managed
+
+363
+00:10:58,000 --> 00:11:00,160
+vps host where you can host as many
+
+364
+00:11:00,160 --> 00:11:01,600
+websites as you'd like
+
+365
+00:11:01,600 --> 00:11:03,839
+i recommend trying cloudways i
+
+366
+00:11:03,839 --> 00:11:05,680
+personally use wp engine
+
+367
+00:11:05,680 --> 00:11:08,079
+and cloudways i have my highest traffic
+
+368
+00:11:08,079 --> 00:11:10,240
+website hosted on wp engine
+
+369
+00:11:10,240 --> 00:11:12,399
+and i have a two gigabyte digitalocean
+
+370
+00:11:12,399 --> 00:11:14,320
+server with cloudways that hosts the
+
+371
+00:11:14,320 --> 00:11:15,680
+rest of my websites
+
+372
+00:11:15,680 --> 00:11:18,399
+including all of my trailer media sites
+
+373
+00:11:18,399 --> 00:11:20,480
+so what type of hosting do you use
+
+374
+00:11:20,480 --> 00:11:21,680
+i'd love to know your thoughts in the
+
+375
+00:11:21,680 --> 00:11:23,360
+comments down below and if you like this
+
+376
+00:11:23,360 --> 00:11:25,120
+video do be sure to hit that subscribe
+
+377
+00:11:25,120 --> 00:11:26,800
+button and click the bell so you don't
+
+378
+00:11:26,800 --> 00:11:29,040
+miss when i release new videos
+
+379
+00:11:29,040 --> 00:11:31,600
+with that said i will catch you guys
+
+380
+00:11:31,600 --> 00:11:34,640
+next time
+
